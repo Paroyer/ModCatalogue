@@ -83,6 +83,7 @@ https://imgur.com/a/GHuQoFf
 https://imgur.com/gd6yVbr
 https://imgur.com/a/gNTq1ra
 https://imgur.com/a/Mu4zwl9
+https://github.com/CWTesseract/win7fix
 
 ### Alpha Stuff
 https://fearlessrevolution.com/viewtopic.php?f=4&t=3799
