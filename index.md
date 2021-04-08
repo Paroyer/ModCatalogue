@@ -85,6 +85,17 @@ https://imgur.com/a/gNTq1ra
 https://imgur.com/a/Mu4zwl9
 https://github.com/CWTesseract/win7fix
 
+### SteamGuide that seem usefull
+https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518
+https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041
+https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929
+https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729
+https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055
+https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807
+https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515
+https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574
+https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690
+
 ### Alpha Stuff
 https://fearlessrevolution.com/viewtopic.php?f=4&t=3799
 https://github.com/Matriz88/CubeWorldServerRunner
