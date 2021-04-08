@@ -12,7 +12,7 @@ Some times i write stuff just to see some things you know.
 
 ***BrightNight.cwmod , Frognik*** : Could be nice to see comparison before/after.
 
-***WeaponXP.cwmod , Frognik*** : **Concept Mod** Known to bug in some occasion, but nothing that major that would prevent you to play either.
+***WeaponXP.cwmod , Frognik*** : *_*Concept Mod*_* Known to bug in some occasion, but nothing that major that would prevent you to play either.
 
 ***Cubemod.cwmod (~~BetterProgression.dll~~) , ArisHack*** : I still consider this a concept mod, not 100% polish, but a nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
 
