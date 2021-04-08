@@ -2,7 +2,7 @@
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
-Some times i write stuff just to see some things you know.
+Some times i write stuff just to see some things you know. [Test](https://paroyer.github.io/ModCatalogue/test1)
 
 ### ModList Test
 
