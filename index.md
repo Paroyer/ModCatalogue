@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Swag Catalogue Test
 
-You can use the [editor on GitHub](https://github.com/Paroyer/ModCatalogue/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some times i write stuff just to see some things you know.
 
 ### Markdown
 
