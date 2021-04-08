@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: /URL-PATH/
+
 ## Swag Catalogue Test
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
