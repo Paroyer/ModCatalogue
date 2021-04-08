@@ -8,7 +8,7 @@ Some times i write stuff just to see some things you know.
 
 --ModLoader--
 
-**BetterBiomes.dll , Julyuary **: Kinda deprecated, not update by the original author for CWSDK-7.1 . Make one kind of biomes to vanish from the game.
+**BetterBiomes.dll , Julyuary ** : Kinda deprecated, not update by the original author for CWSDK-7.1 . Make one kind of biomes to vanish from the game.
 
 BrightNight.cwmod , Frognik : Could be nice to see comparison before/after.
 
