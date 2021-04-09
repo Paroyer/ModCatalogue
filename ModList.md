@@ -8,9 +8,13 @@ Swag mod, for an amazing game you know
 
 ### ModList Recap Test
 
---add tournament mod--
+***CubeModLoader.fip , ChrisMiuchiz*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
---ModLoader--
+***BuildingMod.dll , ChrisMiuchiz*** : * One of the best mods out there, it lets you build in cubeworld pretty straight forward
+
+***ChatMod.dll , ChrisMiuchiz*** : * Again one of the best mods, fix the chat actually not working in multiplayer
+
+***CommandsMod.dll , ChrisMiuchiz*** : * Add commands to the base game, a lot of them are pretty usefull
 
 ***BetterBiomes.dll , Julyuary*** : Kinda deprecated, not update by the original author for CWSDK-7.1 . Make one kind of biomes to vanish from the game.
 
@@ -20,11 +24,6 @@ Swag mod, for an amazing game you know
 
 ***Cubemod.cwmod (~~BetterProgression.dll~~) , ArisHack*** : _**_Concept Mod_**_ Not 100% polish, but a nice really nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
 
-***BuildingMod.dll , Chris*** : * One of the best mods out there, it lets you build in cubeworld pretty straight forward
-
-***ChatMod.dll , Chris*** : * Again one of the best mods, fix the chat actually not working in multiplayer
-
-***CommandsMod.dll , Chris*** : * Add commands to the base game, a lot of them are pretty usefull
 
 ***ChangeSpecializationMod.dll , ZaneYork*** : Add a command to change specialisation, exactly the same as going to the npc but free may be usefull for brand new game you dont want to play X specialisation.
 
@@ -46,7 +45,9 @@ Swag mod, for an amazing game you know
 
 ***PetChanger.dll , Nichiren*** : In my mind that's an underrated one, add a command to change your pet. Totally a hack but it's pure fun !
 
-***LichModsPvp.dll , Lich Group*** : _**_Concept Mod_**_ Add a pvp mode to challenge your friends :D 
+***TournamentClient.dll , Nichiren*** : Let you challenge your friend in swag arena :D (other mods not available with this one to limit cheat)
+
+***LichModsPvp.dll , Lich Group*** : _**_Concept Mod_**_ Add a pvp toggle command 
 
 ***LichModsMonk.dll , Lich Group*** : _**_Concept Mod_**_ add a new class the monk a weaponless class. Some bugs are known with the megamod, and it overwrite 1 ranger abilities iirc. But dont worry it's comming soonish to the CubeMegaMod!
 
