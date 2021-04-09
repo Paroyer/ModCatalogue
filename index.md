@@ -5,13 +5,13 @@ description: Cubeworld Reference
 ---
 
 
-## Swag Catalogue Test
+# Swag Catalogue Test
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
-Some times i write stuff just to see some things you know.
+Should be the eventual Table of Content
 
-# &bull; InfoDump
+## &bull; InfoDump
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract/LiveCubReload](https://github.com/CWTesseract/LiveCubReload)
@@ -72,12 +72,12 @@ Some times i write stuff just to see some things you know.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract/win7fix](https://github.com/CWTesseract/win7fix)
 
-# &bull; maybe
+## &bull; maybe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that's going to work
 
 
 
-# &bull; SteamGuide that seem usefull
+## &bull; SteamGuide that seem usefull
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518](https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041](https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041)
@@ -98,7 +98,7 @@ Some times i write stuff just to see some things you know.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
-# &bull; Alpha Stuff
+## &bull; Alpha Stuff
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://fearlessrevolution.com/viewtopic.php?f=4&t=3799](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/Matriz88/CubeWorldServerRunner](https://github.com/Matriz88/CubeWorldServerRunner)
