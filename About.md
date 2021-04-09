@@ -3,7 +3,7 @@ layout: noTitle
 title: About
 description:
 project_title: vachier
-titletest: test1
+stitle: test1
 sdescription: test2
 ---
 
