@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-project_title: test
+page.title: test
 ---
 ## Swag Catalogue Test
 
