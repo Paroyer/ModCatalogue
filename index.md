@@ -74,10 +74,12 @@ Should be the eventual Table of Content
 
 _________________
 
+
 ## &bull; maybe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that's going to work
 
 _________________
+
 
 ## &bull; SteamGuide that seem usefull
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518](https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518)
@@ -101,6 +103,7 @@ _________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
 _________________
+
 
 ## &bull; Alpha Stuff
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://fearlessrevolution.com/viewtopic.php?f=4&t=3799](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
