@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: noTitle
 title: About
 description:
+stitle: test1
+sdescription: test2
 ---
 
 # About
