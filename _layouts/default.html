@@ -20,15 +20,15 @@
 		}
 
 		li a {
-  		display: block;
-  		color: white;
-  		text-align: center;
-  		padding: 16px;
-  		text-decoration: none;
+  		display: {{ page.lidisplay | default: block }};
+  		color: {{ page.licolor | default: white }};
+  		text-align: center {{ page.textalign | default: center }};
+  		padding: {{ page.lipadding | default: 16px }};
+  		text-decoration: {{ page.lidecoration | default: none }};
 		}
 
 		li a:hover {
-  		background-color: #111111;
+  		background-color: {{ page.lihover | default: #111111 }};
 		}
 	</style>
   </head>
