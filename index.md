@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-page.title: test
+{{ tittle }}: test
 ---
 ## Swag Catalogue Test
 
