@@ -2,8 +2,8 @@
 layout: noTitle
 title: About
 description: This is the description uk
-Ptitle: test1
-Pdescription: test2
+Ptitle: About Page
+Pdescription: Some subtitle
 ---
 
 # About
