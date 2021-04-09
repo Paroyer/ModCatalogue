@@ -1,6 +1,8 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
+kramdown:
+  html_to_native: true
 markdown: redcarpet
 redcarpet:
   extensions:
