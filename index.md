@@ -11,13 +11,22 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Some times i write stuff just to see some things you know.
 
-* I
-* Hate
-* this
-    * shit
-    * uk
-* mofo
-* swag
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 
 ### InfoDump
 
