@@ -2,7 +2,7 @@
 layout: noTitle
 title: About
 description:
-stitle: test1
+titletest: test1
 sdescription: test2
 ---
 
