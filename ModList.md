@@ -1,7 +1,7 @@
 ---
 layout: default
-title: ModList
-description:
+title: Mod List
+description: List of most cubeworld mods
 ---
 ## Mod Catalogue Test
 Swag mod, for an amazing game you know
