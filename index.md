@@ -14,15 +14,16 @@ Some times i write stuff just to see some things you know.
 
 <li>
 Some paragraph
-	
-* one
-* 
-* two
-*
-* three
-*
 </li>
-
+<li>
+Some paragraph2
+</li>
+<li>
+Some paragraph3
+</li>
+<li>
+Some paragraph4
+</li>
 <nav>
 	    <ul>
   			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
