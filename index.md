@@ -44,10 +44,10 @@ Some times i write stuff just to see some things you know.
 <div align="center">
   			<nav>
 			<ul>	
-  			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/ModList">Mod List</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/Contact">Contact</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/About">About</a></li>
+  			<li>test</li>
+  			<li>test2</li>
+  			<li>test3</li>
+  			<li>test4</li>
 			</ul>
 			</nav>
 </div>
