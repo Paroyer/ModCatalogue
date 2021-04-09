@@ -3,7 +3,10 @@ layout: default
 title: About
 ---
 
-### Support or Contact
+# About
 
-Having trouble with this test pages? Check out our [Discord](https://discord.gg/XU3qZQuyvw) or [testLink](https://imgur.com/a/Mu4zwl9) and have fun.
+Shit Gihub page that should eventually list most mods and usefull info regarding cubeworld.
+
+Hoping this may be usefull to some,
+Philrd
 
