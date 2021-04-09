@@ -13,8 +13,8 @@ Some times i write stuff just to see some things you know.
 
 
 ## Heading
-
-<div align="center">
+<body>
+		  <style>
 		ul {
   		list-style-type: none;
   		margin: 0;
@@ -37,6 +37,8 @@ Some times i write stuff just to see some things you know.
 		li a:hover {
   		background-color: #111111;
 		}
+	</style>
+<div align="center">
   <img src="..." height="100" />
   			<nav>
 	        	<ul>
@@ -47,7 +49,7 @@ Some times i write stuff just to see some things you know.
 			</ul>
 			</nav>
 </div>
-
+</body>
 
 ### InfoDump
 
