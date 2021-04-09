@@ -10,24 +10,14 @@ description: Cubeworld Reference
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
 Some times i write stuff just to see some things you know.
-{: .-one-column}
 
-* jekyll-avatar
-* jekyll-coffeescript
-* jekyll-default-layout
-* jekyll-feed
-* jekyll-gist
-* jekyll-github-metadata
-* jekyll-mentions
-* jekyll-optional-front-matter
-* jekyll-paginate
-* jekyll-readme-index
-* jekyll-redirect-from
-* jekyll-relative-links
-* jekyll-sass-converter
-* jekyll-seo-tag
-* jekyll-sitemap
-{: .-four-column}
+* I
+* Hate
+* this
+    * shit
+    * uk
+* mofo
+* swag
 
 ### InfoDump
 
