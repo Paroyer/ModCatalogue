@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: test
+description: Cubeworld Reference
 ---
 
 
@@ -11,12 +11,12 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Some times i write stuff just to see some things you know.
 
-- First item
-- Second item
-- Third item
-  - Indented item
-  - Indented item
-- Fourth item
+- Some Guide
+- Some Info
+- Mod List
+  - Mod #1
+  - Mod #2
+- Alpha stuff
 
 
 ### InfoDump
