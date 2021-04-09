@@ -30,24 +30,24 @@ Some times i write stuff just to see some things you know.
 		li {
  		float: left;
 		}
-		li a {
+		li{
   		display: block;
   		color: black;
   		text-align: center;
   		padding: 16px;
   		text-decoration: none;
 		}
-		li a:hover {
+		li:hover {
   		background-color: #111111;
 		}
 </style>
 <div align="center">
   			<nav>
 			<ul>	
-  			<li>test</li>
-  			<li>test2</li>
-  			<li>test3</li>
-  			<li>test4</li>
+  			<li>#test</li>
+  			<li>#test2</li>
+  			<li>#test3</li>
+  			<li>#test4</li>
 			</ul>
 			</nav>
 </div>
