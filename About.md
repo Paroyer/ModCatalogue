@@ -1,8 +1,7 @@
 ---
 layout: default
 title: About
-Page Title: test
-project_tagline: 123
+description:
 ---
 
 # About
