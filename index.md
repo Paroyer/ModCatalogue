@@ -13,8 +13,10 @@ Some times i write stuff just to see some things you know.
 
 
 ## Heading
-<body>
-		  <style>
+
+<div align="center">
+  <img src="..." height="100" />
+  			<nav>
 		ul {
   		list-style-type: none;
   		margin: 0;
@@ -37,10 +39,6 @@ Some times i write stuff just to see some things you know.
 		li a:hover {
   		background-color: #111111;
 		}
-	</style>
-<div align="center">
-  <img src="..." height="100" />
-  			<nav>
 	        	<ul>
   			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
   			<li><a href="https://paroyer.github.io/ModCatalogue/ModList">Mod List</a></li>
@@ -49,7 +47,7 @@ Some times i write stuff just to see some things you know.
 			</ul>
 			</nav>
 </div>
-</body>
+
 
 ### InfoDump
 
