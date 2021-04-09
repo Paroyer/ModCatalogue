@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+site.title: test
 ---
 ## Swag Catalogue Test
 
