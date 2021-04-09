@@ -31,14 +31,14 @@ Some times i write stuff just to see some things you know.
  		float: left;
 		}
 		li a {
-  		display: {{ page.lidisplay | default: "block" }};
+  		display: block;
   		color: black;
-  		text-align: center {{ page.litextalign | default: "center" }};
-  		padding: {{ page.lipadding | default: "16px" }};
-  		text-decoration: {{ page.lidecoration | default: "none" }};
+  		text-align: center;
+  		padding: 16px;
+  		text-decoration: none;
 		}
 		li a:hover {
-  		background-color: {{ page.lihover | default: "#111111" }};
+  		background-color: #111111;
 		}
 </style>
 <div align="center">
