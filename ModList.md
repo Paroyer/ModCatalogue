@@ -3,11 +3,11 @@ layout: default
 title: Mod List
 description: List of most cubeworld mods
 ---
-## Mod Catalogue Test
+# Mod Catalogue Test
 
 *Mods with an asterix are those I consider noteworthy for some reasons.
 
-### ModList Recap Test
+## ModList Recap Test
 
 ***CubeModLoader.fip , ChrisMiuchiz*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
