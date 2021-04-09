@@ -34,15 +34,12 @@ Some times i write stuff just to see some things you know.
 		li:hover {
   		background-color: #111111;
 		}
-</style>
-<div align="center">
   			<nav>	
   			<li>#test</li>
   			<li>#test2</li>
   			<li>#test3</li>
   			<li>#test4</li>
 			</nav>
-</div>
 
 
 ### InfoDump
