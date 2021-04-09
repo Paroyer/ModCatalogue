@@ -26,7 +26,7 @@ description: List of most cubeworld mods
 ***Cubemod.cwmod (~~BetterProgression.dll~~) , ArisHack*** : _**_Concept Mod_**_ Not 100% polish, but a nice really nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
 
 
-***ChangeSpecializationMod.dll , ZaneYork*** : Add a command to change specialisation, exactly the same as going to the npc but free may be usefull for brand new game you dont want to play X specialisation.
+***ChangeSpecializationMod.dll , ZaneYork*** : Add a command to change specialisation, exactly the same as going to the npc. May be usefull for brand new game you dont want to play X specialisation.
 
 ***LocalizationMod.dll , ZaneYork*** : Only usefull to translate the game, not usefull to most player but i thought it was nice to add it here in case.
 
