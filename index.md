@@ -6,9 +6,7 @@ title: Home
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
-Some times i write stuff just to see some things you know. 
-
-[ModList Recap](https://paroyer.github.io/ModCatalogue/ModList.html)
+Some times i write stuff just to see some things you know.
 
 
 ### InfoDump
