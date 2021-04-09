@@ -12,30 +12,6 @@ The goal of this shitty page is to eventually list the available mods and such f
 Some times i write stuff just to see some things you know.
 
 
-## Heading
-<div>
-<style>
-		li {
- 		float: left;
-		}
-		li{
-  		display: block;
-  		color: black;
-  		text-align: center;
-  		padding: 16px;
-  		text-decoration: none;
-		}
-		li:hover {
-  		background-color: #111111;
-		}
-  			<nav>	
-  			<li>#test</li>
-  			<li>#test2</li>
-  			<li>#test3</li>
-  			<li>#test4</li>
-			</nav>
-	</div>
-
 ### InfoDump
 
 https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher
