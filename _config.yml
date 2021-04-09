@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - lax_spacing
