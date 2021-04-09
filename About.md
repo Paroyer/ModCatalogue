@@ -2,11 +2,8 @@
 layout: noTitle
 title: About
 description:
-project_title: vachier
-stitle: test1
-sdescription: test2
-site.stitle: test 3
-site.sdescription: test4
+Ptitle: test1
+Pdescription: test2
 ---
 
 # About
