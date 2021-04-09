@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "PAGE TITLE"
+title: About
 ---
 
 # About
