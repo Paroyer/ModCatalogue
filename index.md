@@ -11,14 +11,11 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Some times i write stuff just to see some things you know.
 
-<nav>
-	    <ul>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/ModList">Mod List</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/Contact">Contact</a></li>
-  			<li><a href="https://paroyer.github.io/ModCatalogue/About">About</a></li>
-	     </ul>
-</nav>
+#What if
+some things
+
+#maybe
+that's going to work
 
 ### InfoDump
 
