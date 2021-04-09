@@ -15,7 +15,6 @@ Some times i write stuff just to see some things you know.
 ## Heading
 
 <div align="center">
-	<style>
 		ul {
   		list-style-type: none;
   		margin: 0;
@@ -38,7 +37,6 @@ Some times i write stuff just to see some things you know.
 		li a:hover {
   		background-color: #111111;
 		}
-	</style>
   <img src="..." height="100" />
   			<nav>
 	        	<ul>
