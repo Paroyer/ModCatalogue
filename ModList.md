@@ -52,9 +52,3 @@ Some times i write stuff just to see some things you know.
 
 ***LichModsCubePatch.dll , Lich Group*** : * Amazing : Fix artifacts bonus that dont work properly in the base game.
 
-
-
-
-### Support or Contact
-
-Having trouble with this test pages? Check out our [Discord](https://discord.gg/XU3qZQuyvw) or [testLink](https://imgur.com/a/Mu4zwl9) and have fun.
