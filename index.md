@@ -78,35 +78,35 @@ Some times i write stuff just to see some things you know.
 
 
 # &bull; SteamGuide that seem usefull
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518](https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041](https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929](https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729](https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055](https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807](https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515](https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574](https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690](https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
 # &bull; Alpha Stuff
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://fearlessrevolution.com/viewtopic.php?f=4&t=3799>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://fearlessrevolution.com/viewtopic.php?f=4&t=3799](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://github.com/Matriz88/CubeWorldServerRunner>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/Matriz88/CubeWorldServerRunner](https://github.com/Matriz88/CubeWorldServerRunner)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://github.com/humanova/CubeWorld-ESP>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/humanova/CubeWorld-ESP](https://github.com/humanova/CubeWorld-ESP)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://mega.nz/#!lZ8iEKyJ!MBwxxsxq05T5vNNfSpf02KCUsGw_obhnQpoSRKTmMqU>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://mega.nz/#!lZ8iEKyJ!MBwxxsxq05T5vNNfSpf02KCUsGw_obhnQpoSRKTmMqU](https://mega.nz/#!lZ8iEKyJ!MBwxxsxq05T5vNNfSpf02KCUsGw_obhnQpoSRKTmMqU)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view](https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://docs.google.com/spreadsheets/.../edit#gid=699710884](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
