@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+Page Title: test
 ---
 
 # About
