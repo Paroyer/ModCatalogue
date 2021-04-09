@@ -72,10 +72,12 @@ Should be the eventual Table of Content
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract/win7fix](https://github.com/CWTesseract/win7fix)
 
+_________________
+
 ## &bull; maybe
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that's going to work
 
-
+_________________
 
 ## &bull; SteamGuide that seem usefull
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518](https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518)
@@ -98,6 +100,8 @@ Should be the eventual Table of Content
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
+_________________
+
 ## &bull; Alpha Stuff
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://fearlessrevolution.com/viewtopic.php?f=4&t=3799](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
 
@@ -110,3 +114,5 @@ Should be the eventual Table of Content
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view](https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://docs.google.com/spreadsheets/.../edit#gid=699710884](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
+
+_________________
