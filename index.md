@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Home
-{{ tittle }}: test
 ---
+#test
+
 ## Swag Catalogue Test
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
