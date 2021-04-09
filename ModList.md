@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ModList
+description:
 ---
 ## Mod Catalogue Test
 Swag mod, for an amazing game you know
