@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "jekyll-theme-slate";
-.main-content {
+@import "{{ site.theme }}";
+.inner {
   h1 {
    color: #ff0000;
    word-break: break-all;
