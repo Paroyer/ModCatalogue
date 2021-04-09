@@ -2,8 +2,6 @@
 layout: default
 title: Home
 description: test
-stitle: yolo
-sdescription: nevatoomuch
 ---
 
 
