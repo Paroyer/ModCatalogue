@@ -11,24 +11,10 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Some times i write stuff just to see some things you know.
 
-- Some Guide
-- Some Info
-- Mod List
-  - Mod #1
-  - Mod #2
-- Alpha stuff
-
-<ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item
-  <ul>
-    <li>Indented item</li>
-    <li>Indented item</li>
-  </ul>
-  </li>
-  <li>Fourth item</li>
-</ul>
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
 
 ### InfoDump
 
