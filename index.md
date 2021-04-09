@@ -77,7 +77,7 @@ Some times i write stuff just to see some things you know.
 
 
 
-### SteamGuide that seem usefull
+# &bull; SteamGuide that seem usefull
 https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518
 https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041
 https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929
@@ -89,7 +89,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574
 https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690
 https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553
 
-### Alpha Stuff
+# &bull; Alpha Stuff
 https://fearlessrevolution.com/viewtopic.php?f=4&t=3799
 https://github.com/Matriz88/CubeWorldServerRunner
 https://github.com/humanova/CubeWorld-ESP
