@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 .inner {
+  p {
+    word-break: break-all;
+  }  
   h1 {
    color: #ff0000;
    word-break: break-all;
