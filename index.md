@@ -12,7 +12,7 @@ The goal of this shitty page is to eventually list the available mods and such f
 Some times i write stuff just to see some things you know.
 
 # &bull; InfoDump
-Or leave it empty and use the <https://cdn.discordapp.com/attachments/641283888798367754/823530332296052736/CubeworldGUIPointer.CT>
+Or leave it empty and use the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -<https://cdn.discordapp.com/attachments/641283888798367754/823530332296052736/CubeworldGUIPointer.CT>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
 
