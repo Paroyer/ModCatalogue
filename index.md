@@ -12,33 +12,17 @@ The goal of this shitty page is to eventually list the available mods and such f
 Some times i write stuff just to see some things you know.
 
 
-### And a nested list:
+## Heading
 
-- level 1 item
+<div align="center">
+  <img src="..." height="100" />
 
-  - level 2 item
-  
-  - level 2 item
-  
-    - level 3 item
-    
-    - level 3 item
-    
-- level 1 item
+</div>
 
-  - level 2 item
-  
-  - level 2 item
-  
-  - level 2 item
-  
-- level 1 item
-
-  - level 2 item
-  
-  - level 2 item
-  
-- level 1 item
+- bullet
+- list
+- in
+- markdown
 
 
 ### InfoDump
