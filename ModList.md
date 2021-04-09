@@ -5,7 +5,7 @@ description: List of most cubeworld mods
 ---
 ## Mod Catalogue Test
 
-*Mods with an asterix are those I consider more important for some reasons
+*Mods with an asterix are those I consider noteworthy for some reasons.
 
 ### ModList Recap Test
 
