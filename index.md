@@ -3,7 +3,7 @@ layout: default
 title: Home
 description: Cubeworld Reference
 lidisplay: block
-licolor: black
+licolor: white
 litextalign: center
 lipadding: 16px
 lidecoration: none
@@ -20,21 +20,35 @@ Some times i write stuff just to see some things you know.
 
 ## Heading
 
+<style>
+		ul {
+  		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+  		overflow: hidden;
+		}
+		li {
+ 		float: left;
+		}
+		li a {
+  		display: {{ page.lidisplay | default: "block" }};
+  		color: {{ page.licolor | default: "white" }};
+  		text-align: center {{ page.litextalign | default: "center" }};
+  		padding: {{ page.lipadding | default: "16px" }};
+  		text-decoration: {{ page.lidecoration | default: "none" }};
+		}
+		li a:hover {
+  		background-color: {{ page.lihover | default: "#111111" }};
+		}
+</style>
 <div align="center">
-  			<nav>
-				
+  			<nav>	
 	        	<ul>
-			
   			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
-				
   			<li><a href="https://paroyer.github.io/ModCatalogue/ModList">Mod List</a></li>
-			
   			<li><a href="https://paroyer.github.io/ModCatalogue/Contact">Contact</a></li>
-			
   			<li><a href="https://paroyer.github.io/ModCatalogue/About">About</a></li>
-			
 			</ul>
-			
 			</nav>
 </div>
 
