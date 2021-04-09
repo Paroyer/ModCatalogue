@@ -2,12 +2,6 @@
 layout: default
 title: Home
 description: Cubeworld Reference
-lidisplay: block
-licolor: white
-litextalign: center
-lipadding: 16px
-lidecoration: none
-lihover: #111111
 ---
 
 
