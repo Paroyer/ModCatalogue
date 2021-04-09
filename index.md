@@ -11,12 +11,12 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Some times i write stuff just to see some things you know.
 
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
++I hate this shit
+
++why the fuck im doing it
+
++Is this the way
+	+You know
 
 ### InfoDump
 
