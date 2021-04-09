@@ -14,9 +14,13 @@ Some times i write stuff just to see some things you know.
 
 <li>
 Some paragraph
+	
 * one
+* 
 * two
+*
 * three
+*
 </li>
 
 <nav>
