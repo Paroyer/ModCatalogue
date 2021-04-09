@@ -21,12 +21,6 @@ Some times i write stuff just to see some things you know.
 ## Heading
 
 <style>
-		ul {
-  		list-style-type: none;
-  		margin: 0;
-  		padding: 0;
-  		overflow: hidden;
-		}
 		li {
  		float: left;
 		}
@@ -42,13 +36,11 @@ Some times i write stuff just to see some things you know.
 		}
 </style>
 <div align="center">
-  			<nav>
-			<ul>	
+  			<nav>	
   			<li>#test</li>
   			<li>#test2</li>
   			<li>#test3</li>
   			<li>#test4</li>
-			</ul>
 			</nav>
 </div>
 
