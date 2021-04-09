@@ -2,6 +2,12 @@
 layout: default
 title: Home
 description: Cubeworld Reference
+lidisplay: block
+licolor: black
+litextalign: center
+lipadding: 16px
+lidecoration: none
+lihover: #111111
 ---
 
 
@@ -15,7 +21,6 @@ Some times i write stuff just to see some things you know.
 ## Heading
 
 <div align="center">
-  <img src="..." height="100" />
   			<nav>
 	        	<ul>
   			<li><a href="https://paroyer.github.io/ModCatalogue/">Home</a></li>
