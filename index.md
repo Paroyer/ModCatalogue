@@ -12,7 +12,7 @@ The goal of this shitty page is to eventually list the available mods and such f
 Some times i write stuff just to see some things you know.
 
 # &bull; InfoDump
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -https://github.com/CWTesseract/LiveCubReload
 
