@@ -1,7 +1,7 @@
 ---
 layout: noTitle
 title: About
-description:
+description: This is the description uk
 Ptitle: test1
 Pdescription: test2
 ---
