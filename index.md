@@ -2,6 +2,8 @@
 layout: default
 title: Home
 description: test
+site.title: yolo
+site.description: nevatoomuch
 ---
 
 
