@@ -15,6 +15,30 @@ Some times i write stuff just to see some things you know.
 ## Heading
 
 <div align="center">
+	<style>
+		ul {
+  		list-style-type: none;
+  		margin: 0;
+  		padding: 0;
+  		overflow: hidden;
+		}
+
+		li {
+ 		float: left;
+		}
+
+		li a {
+  		display: block;
+  		color: white;
+  		text-align: center;
+  		padding: 16px;
+  		text-decoration: none;
+		}
+
+		li a:hover {
+  		background-color: #111111;
+		}
+	</style>
   <img src="..." height="100" />
   			<nav>
 	        	<ul>
