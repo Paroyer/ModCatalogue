@@ -13,7 +13,7 @@ Some times i write stuff just to see some things you know.
 
 
 ## Heading
-
+<div>
 <style>
 		li {
  		float: left;
@@ -34,7 +34,7 @@ Some times i write stuff just to see some things you know.
   			<li>#test3</li>
   			<li>#test4</li>
 			</nav>
-
+	</div>
 
 ### InfoDump
 
