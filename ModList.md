@@ -8,6 +8,8 @@ Swag mod, for an amazing game you know
 
 ### ModList Recap Test
 
+--add tournament mod--
+
 --ModLoader--
 
 ***BetterBiomes.dll , Julyuary*** : Kinda deprecated, not update by the original author for CWSDK-7.1 . Make one kind of biomes to vanish from the game.
