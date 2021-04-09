@@ -63,7 +63,3 @@ https://github.com/humanova/CubeWorld-ESP
 https://mega.nz/#!lZ8iEKyJ!MBwxxsxq05T5vNNfSpf02KCUsGw_obhnQpoSRKTmMqU
 https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view
 https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884
-
-### Support or Contact
-
-Having trouble with this test pages? Check out our [Discord](https://discord.gg/XU3qZQuyvw) or [testLink](https://imgur.com/a/Mu4zwl9) and have fun.
