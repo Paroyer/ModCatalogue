@@ -42,7 +42,7 @@ description: List of most cubeworld mods
 
 ***CubeMoneyScaler.dll , Nichiren*** : _**_Concept Mod_**_ Scale your damage with how much gold you have.
 
-***CubeScreenResizer.dll , Nichiren*** : * Amazing: I consider this a fix, resizes your cubeworld screen as defined config file when loading the game. That's an external config.txt but you can set what ever size you want :3 
+***CubeScreenResizer.dll , Nichiren*** : * Amazing: I consider this a fix, resizes your cubeworld screen as defined config file when loading the game :3 
 
 ***PetChanger.dll , Nichiren*** : In my mind that's an underrated one, add a command to change your pet. Totally a hack but it's pure fun !
 
