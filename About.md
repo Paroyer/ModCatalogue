@@ -5,6 +5,8 @@ description:
 project_title: vachier
 stitle: test1
 sdescription: test2
+site.stitle: test 3
+site.sdescription: test4
 ---
 
 # About
