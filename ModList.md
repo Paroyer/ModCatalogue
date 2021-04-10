@@ -11,7 +11,7 @@ This is the list of all the known/relevent mods for cubeworld. They are listed a
 
 ## ModList Recap Test
 
-***CubeModLoader.fip , ChrisMiuchiz*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
+***[CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
 ***BuildingMod.dll , ChrisMiuchiz*** : * One of the best mods out there, it lets you build in cubeworld pretty straight forward
 
