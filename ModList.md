@@ -3,7 +3,6 @@ layout: default
 title: Mod List
 description: List of most cubeworld mods
 ---
-# Mod List
 
 This is the list of all the known/relevent mods for cubeworld. They are listed as their actual .dll name for convenience, that way you can look up if you have a mod in your /Mods folder that you dont know the source or what it does. It is worth mentioning that some .cwmod listed here have a .dll loader, that was usefull a couple days, but since the modloader have legacy support for .cwmod those .dll are deprecated (WeaponXP.dll/BrightNight.dll/BetterProgression.dll). Just delete them, keep the .cwmod and you wont get any error regarding the CWSDK version.
 
@@ -14,7 +13,7 @@ _**_Concept Mod_**_ is just a subjective way to say those mods are not 100% poli
 _________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## ModList Recap Test
+# Mod List
 
 ***[CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
