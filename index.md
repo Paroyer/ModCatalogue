@@ -79,12 +79,6 @@ Should be the eventual Table of Content
 _________________
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-## &bull; maybe
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; that's going to work
-
-_________________
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## &bull; SteamGuide that seem usefull
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518](https://steamcommunity.com/sharedfiles/filedetails/?id=1879943518)
 
