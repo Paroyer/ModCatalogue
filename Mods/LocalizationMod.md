@@ -4,5 +4,12 @@ title: LocalizationMod
 description: LocalizationMod description
 ---
 
-# LocalizationMod test page
+# LocalizationMod 
 
+## Known Bugs and/or Conflict
+
+## Side Note
+
+## Media
+
+## Links
