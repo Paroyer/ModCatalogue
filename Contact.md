@@ -10,8 +10,6 @@ Having trouble with this test pages? Check out our [Discord](https://discord.gg/
 
 _________________
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 If you have a suggestion or any problem with this GitHub Pages, you can always contact me directly:
 
 [Email](mailto:paroyerderp@gmail.com) or add me on Discord : Philrd#5349
