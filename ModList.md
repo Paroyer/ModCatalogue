@@ -25,14 +25,14 @@ This is the list of all the known/relevent mods for cubeworld. They are listed a
 
 ***WeaponXP.cwmod , Frognik*** : _**_Concept Mod_**_ Known to bug in some occasion, but nothing that major that would prevent you to play either.
 
-***Cubemod.cwmod (~~BetterProgression.dll~~) , ArisHack*** : _**_Concept Mod_**_ Not 100% polish, but a nice really nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
+***Cubemod.cwmod (~~BetterProgression.dll~~) , [ArisHack](https://github.com/arishackstv)*** : _**_Concept Mod_**_ Not 100% polish, but a nice really nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
 
 
-***ChangeSpecializationMod.dll , ZaneYork*** : Add a command to change specialisation, exactly the same as going to the npc. May be usefull for brand new game you dont want to play X specialisation.
+***ChangeSpecializationMod.dll , [ZaneYork](https://github.com/ZaneYork)*** : Add a command to change specialisation, exactly the same as going to the npc. May be usefull for brand new game you dont want to play X specialisation.
 
-***LocalizationMod.dll , ZaneYork*** : Only usefull to translate the game, not usefull to most player but i thought it was nice to add it here in case.
+***LocalizationMod.dll , [ZaneYork](https://github.com/ZaneYork)*** : Only usefull to translate the game, not usefull to most player but i thought it was nice to add it here in case.
 
-***InfiniteStackMod.dll , ZaneYork*** : Bypass all the game stack limite, pretty usefull until there's a proper Capacity Fix mod for Apple/Lemon/Banana
+***InfiniteStackMod.dll , [ZaneYork](https://github.com/ZaneYork)*** : Bypass all the game stack limite, pretty usefull until there's a proper Capacity Fix mod for Apple/Lemon/Banana
 
 ***ClassLoader.dll , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ * That one is a personal favorite, concept mod ( not 100% polish) but still amazing, there's a talent tree hiden in here 👀
 
