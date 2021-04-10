@@ -4,5 +4,12 @@ title: WeaponXP
 description: WeaponXP description
 ---
 
-# WeaponXP test page
+# WeaponXP 
 
+## Known Bugs and/or Conflict
+
+## Side Note
+
+## Media
+
+## Links
