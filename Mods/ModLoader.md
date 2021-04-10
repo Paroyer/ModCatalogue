@@ -10,6 +10,8 @@ This is what you need to actually mod the game. That one goes next to the cubewo
 
 ## Known Bugs and/or Conflict
 
+## Compatibility Table
+
 ## Side Note
 
 ## Media
