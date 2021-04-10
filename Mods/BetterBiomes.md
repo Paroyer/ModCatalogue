@@ -4,4 +4,12 @@ title: BetterBiomes
 description: BetterBiomes description
 ---
 
-# BetterBiomes test page
+# BetterBiomes
+
+## Known Bugs and/or Conflict
+
+## Side Note
+
+## Media
+
+## Links
