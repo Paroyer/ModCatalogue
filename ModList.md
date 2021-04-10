@@ -11,6 +11,9 @@ _**_Concept Mod_**_ Is just a subjective way to say those mods are not 100% poli
 
 *Mods with an asterix are those I consider noteworthy for some reasons.
 
+_________________
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## ModList Recap Test
 
 ***[CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
@@ -62,3 +65,4 @@ _**_Concept Mod_**_ Is just a subjective way to say those mods are not 100% poli
 
 ***[LichModsCubePatch.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsCubePatch) , [LichGroup](https://github.com/LockManipulator)*** : * Amazing : Fix artifacts bonus that dont work properly in the base game.
 
+_________________
