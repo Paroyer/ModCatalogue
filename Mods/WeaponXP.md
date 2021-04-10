@@ -8,6 +8,8 @@ description: WeaponXP description
 
 ## Known Bugs and/or Conflict
 
+## Compatibility Table
+
 ## Side Note
 
 ## Media
