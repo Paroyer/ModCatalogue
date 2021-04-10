@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
+html:
+  comments:
+    utterances:
+      repo: "https://github.com/Paroyer/ModCatalogue/"
