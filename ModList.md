@@ -13,7 +13,7 @@ This is the list of all the known/relevent mods for cubeworld. They are listed a
 
 ***[CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : * What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
-***BuildingMod.dll , ChrisMiuchiz*** : * One of the best mods out there, it lets you build in cubeworld pretty straight forward
+[BuildingMod.dll](https://paroyer.github.io/ModCatalogue/Mods/BuildingMod) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz) : * One of the best mods out there, it lets you build in cubeworld pretty straight forward
 
 ***ChatMod.dll , ChrisMiuchiz*** : * Again one of the best mods, fix the chat actually not working in multiplayer
 
