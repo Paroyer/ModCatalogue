@@ -50,7 +50,7 @@ _________________
 
 ***[CubeGression.dll](https://paroyer.github.io/ModCatalogue/Mods/CubeGression) , [Nichiren](https://github.com/thetrueoneshots)*** : * Amazing: Add artifacts combat stats, pretty amazing if you want more meaningfull ''bonus'' for each level.
 
-***[CubeMoneyScaler.dll](https://paroyer.github.io/ModCatalogue/Mods/CubeMoneyScaler) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Scale your damage with how much gold you have.
+***[CubeMoneyScaler.dll](https://paroyer.github.io/ModCatalogue/Mods/CubeMoneyScaler) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Scale your damage with how much gold you have. Also drop more money/items when your level gets higher, and regen some mana/stamina/hp on coin pick up.
 
 ***[CubeScreenResizer.dll](https://paroyer.github.io/ModCatalogue/Mods/CubeScreenResizer) , [Nichiren](https://github.com/thetrueoneshots)*** : * Amazing: I consider this a fix, resizes your cubeworld screen as defined config file when loading the game :3 
 
