@@ -4,4 +4,12 @@ title: BrightNight
 description: BrightNight description
 ---
 
-# BrightNight test page
+# BrightNight
+
+## Known Bugs and/or Conflict
+
+## Side Note
+
+## Media
+
+## Links
