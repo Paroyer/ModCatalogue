@@ -10,7 +10,7 @@ description: comment test
         repo="Paroyer/Comment" 
         issue-term="pathname"
         theme="github-dark"
-        label="comment"
+        label="Comment"
         crossorigin="anonymous"
         async>
 </script>  
