@@ -7,9 +7,10 @@ description: comment test
 ### Comment
 
 <script src="https://utteranc.es/client.js"
-        repo="Paroyer/Comment"
+        repo="Paroyer/Comment" 
         issue-term="pathname"
         theme="github-dark"
+        label="comment"
         crossorigin="anonymous"
         async>
-</script>
+</script>  
