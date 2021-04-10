@@ -4,5 +4,12 @@ title: TournamentClient
 description: TournamentClient description
 ---
 
-# TournamentClient test page
+# TournamentClient
 
+## Known Bugs and/or Conflict
+
+## Side Note
+
+## Media
+
+## Links
