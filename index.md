@@ -11,6 +11,10 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Should be the eventual Table of Content
 
+## &bull; [Guide](https://paroyer.github.io/ModCatalogue/)
+
+## &bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
+
 ## &bull; InfoDump
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
 
