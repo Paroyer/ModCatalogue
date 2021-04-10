@@ -69,3 +69,13 @@ _________________
 ***[LichModsCubePatch.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsCubePatch) , [LichGroup](https://github.com/LockManipulator)*** : * Amazing : Fix artifacts bonus that dont work properly in the base game.
 
 _________________
+
+
+<script src="https://utteranc.es/client.js"
+        repo="Paroyer/Comment" 
+        issue-term="pathname"
+        theme="github-dark"
+        label="Comment"
+        crossorigin="anonymous"
+        async>
+</script>  
