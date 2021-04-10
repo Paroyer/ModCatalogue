@@ -1,9 +1,9 @@
 ---
 layout: noTitle
 title: About
-description: This is the description uk
+description: About this GitHub Pages
 Ptitle: About Page
-Pdescription: Some subtitle
+Pdescription: 
 ---
 
 # About
