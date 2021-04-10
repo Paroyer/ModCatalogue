@@ -3,7 +3,7 @@ layout: noTitle
 title: About
 description: About this GitHub Pages
 Ptitle: About Page
-Pdescription: <!--Actually takes the Repo about description-->
+<!--Pdescription: Actually takes the Repo about description-->
 ---
 
 # About
