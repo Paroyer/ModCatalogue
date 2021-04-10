@@ -6,7 +6,7 @@ description: List of most cubeworld mods
 
 ## Introduction
 
-This is the list of all the known/relevent mods for cubeworld. They are listed as their actual .dll name for convenience, that way you can look up if you have a mod in your /Mods folder that you dont know the source or what it does. It is worth mentioning that some .cwmod listed here have a .dll loader, that was usefull a couple days, but since the modloader have legacy support for .cwmod those .dll are deprecated (WeaponXP.dll/BrightNight.dll/BetterProgression.dll). Just delete them, keep the .cwmod and you wont get any error regarding the CWSDK version.
+This is the list of all the known/relevent mods for cubeworld. They are listed as their actual .dll name for convenience, that way you can look up if you have a mod in your /Mods folder that you dont know the source or what it does. It is worth mentioning that some .cwmod listed here have a .dll loader, that was usefull a couple days, but since the modloader have legacy support for .cwmod those .dll are deprecated (WeaponXP.dll / BrightNight.dll / BetterProgression.dll). Just delete them, keep the .cwmod and you wont get any error regarding the CWSDK version.
 
 _**_Concept Mod_**_ is just a subjective way to say those mods are not 100% polished, which mean you may run into more bugs then with other mods.
 
@@ -29,9 +29,9 @@ _________________
 
 ***[BetterBiomes.dll](https://paroyer.github.io/ModCatalogue/Mods/BetterBiomes) , Julyuary*** : Kinda deprecated, not update by the original author for CWSDK-7.1 . Make one kind of biomes to vanish from the game.
 
-***[BrightNight.cwmod](https://paroyer.github.io/ModCatalogue/Mods/BrightNight) , Frognik*** : Could be nice to see comparison before/after.
+***[BrightNight.cwmod](https://paroyer.github.io/ModCatalogue/Mods/BrightNight) (~~BrightNight.dll~~) , Frognik*** : Could be nice to see comparison before/after.
 
-***[WeaponXP.cwmod](https://paroyer.github.io/ModCatalogue/Mods/WeaponXP) , Frognik*** : _**_Concept Mod_**_ Known to bug in some occasion, but nothing that major that would prevent you to play either.
+***[WeaponXP.cwmod](https://paroyer.github.io/ModCatalogue/Mods/WeaponXP) (~~WeaponXP.dll~~) , Frognik*** : _**_Concept Mod_**_ Known to bug in some occasion, but nothing that major that would prevent you to play either.
 
 ***[Cubemod.cwmod](https://paroyer.github.io/ModCatalogue/Mods/CubeMod) (~~BetterProgression.dll~~) , [ArisHack](https://github.com/arishackstv)*** : _**_Concept Mod_**_ Not 100% polish, but a nice really nice concept regarding region lock. Important to know it use the rand() function and generate random pillar at some point ( you will see them dont worry :p )
 
