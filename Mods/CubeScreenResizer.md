@@ -8,6 +8,8 @@ description: CubeScreenResizer description
 
 ## Known Bugs and/or Conflict
 
+## Compatibility Table
+
 ## Side Note
 
 ## Media
