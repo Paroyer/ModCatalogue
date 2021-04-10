@@ -15,3 +15,12 @@ If you have a suggestion or any problem with this GitHub Pages, you can always c
 [Email](mailto:paroyerderp@gmail.com) or add me on Discord : Philrd#5349
 
 _________________
+
+<script src="https://utteranc.es/client.js"
+        repo="Paroyer/Comment" 
+        issue-term="pathname"
+        theme="github-dark"
+        label="Comment"
+        crossorigin="anonymous"
+        async>
+</script>  
