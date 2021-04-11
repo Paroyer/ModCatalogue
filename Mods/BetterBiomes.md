@@ -36,7 +36,6 @@ A terrain generation mod for CubeWorld.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) 
 
 ## Comments:
-
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
         issue-term="pathname"
