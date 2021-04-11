@@ -16,9 +16,9 @@ A terrain generation mod for CubeWorld.
 ## Compatibility Table
 
 ---
-CWSDK-5.1: &check;
+CWSDK-5.1: &check
 CWSDK-6.1: idk
-CWSDK-7.1: Via Fan-update &check;
+CWSDK-7.1: Via Fan-update &check
 ---
 
 
