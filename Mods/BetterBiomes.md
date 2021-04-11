@@ -17,10 +17,10 @@ A terrain generation mod for CubeWorld.
 
 <div align="center">
   
-| Version :                | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1  |
+| <div align="center">Version :</div>                | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1  |
 | -----------              |:-------------:| ----------:| ----------:|
 | BetterBiomes 1.0         |               |            |            |
-| BetterBiomes 1.1         |               |            |  &#10003;  |
+| BetterBiomes 1.1         |               |            |  <div align="center">&#10003;</div>  |
 | BetterBiomes Fan-Update  | 	&#10003;     |            |            |
 
 </div>
