@@ -124,10 +124,8 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div align="center">
-  <div class="model-box">
+  <div class="model-box" align="center">
   <iframe class="model" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
   </div>
   <div class="text"></div>
 </div>
