@@ -125,7 +125,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div align="center">
-  <iframe style="position:absolute;height:100%;width:100%;border:none" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe height=90% width=90% src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="text"></div>
 </div>
