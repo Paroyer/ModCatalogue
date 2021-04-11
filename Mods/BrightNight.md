@@ -4,7 +4,7 @@ title: BrightNight
 description: BrightNight description
 ---
 
-# BetterBiomes
+# BrightNight
 
 Make nights brighter
 
