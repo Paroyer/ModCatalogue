@@ -17,7 +17,7 @@ Ptitle: About Page
 
 
 _________________
-
+<!---
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
         issue-term="pathname"
@@ -25,4 +25,4 @@ _________________
         label="Comment"
         crossorigin="anonymous"
         async>
-</script>  
+</script>  ---> 
