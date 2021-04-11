@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mod Idea
-description: Mod Idea test
+description: Mod Idea test Page
 ---
 
 ## Mod Idea
