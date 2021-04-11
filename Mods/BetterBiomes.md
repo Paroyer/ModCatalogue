@@ -48,7 +48,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 1px;
+  padding: 13px;
   margin-top: -22px;
   color: #606060;
   font-weight: bold;
@@ -84,7 +84,7 @@ img {vertical-align: middle;}
 .numbertext {
   color: #606060;
   font-size: 12px;
-  padding: -5px -5px;
+  padding: 5px 5px;
   position: absolute;
   top: 0;
 }
