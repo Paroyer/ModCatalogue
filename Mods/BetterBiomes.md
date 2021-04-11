@@ -19,7 +19,7 @@ A terrain generation mod for CubeWorld.
 | Version :              | CWSDK-7.1    | CWSDK-6.1 | CWSDK-5.1  |
 | -----------              |:-------------:| ----------:| ----------:|
 | BetterBiomes 1.0         |               |            |            |
-| BetterBiomes 1.1       |               |            |  <p style="text-align: right">Your awesome text</p> |
+| BetterBiomes 1.1       |               |            |  <p style="text-align: right">Swag</p> |
 | BetterBiomes Fan-Update | 	&#10003;{: .right}    |            |            |
 
 ## Side Note
