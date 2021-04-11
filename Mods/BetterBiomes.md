@@ -131,12 +131,12 @@ img {vertical-align: middle;}
 </div>
 
 <div class="mySlides fade">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:100%">
+  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:95%">
   <div class="text">Before</div>
 </div>
 
 <div class="mySlides fade">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:100%">
+  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:95%">
   <div class="text">After</div>
 </div>
 
