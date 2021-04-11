@@ -14,16 +14,12 @@ A terrain generation mod for CubeWorld.
 - In MP if the other player dont have the mod one of you will probably see the other one way up in the sky
 
 ## Compatibility Table
-
-<div align="center">
   
-| <div align="center">Version :</div>                | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1  |
+| <div align="center">Version :</div>                | <div align="center">CWSDK-7.1</div>     | <div align="center">CWSDK-6.1</div>  | <div align="center">CWSDK-5.1</div>  |
 | -----------              |:-------------:| ----------:| ----------:|
-| BetterBiomes 1.0         |               |            |            |
-| BetterBiomes 1.1         |               |            |  <div align="center">&#10003;</div>  |
-| BetterBiomes Fan-Update  | 	<div align="center">&#10003;</div>     |            |            |
-
-</div>
+| <div align="center">BetterBiomes 1.0 </div>         |               |            |            |
+| <div align="center">BetterBiomes 1.1 </div>        |               |            |  <div align="center">&#10003;</div>  |
+| <div align="center">BetterBiomes Fan-Update </div> | 	<div align="center">&#10003;</div>     |            |            |
 
 ## Side Note
 
