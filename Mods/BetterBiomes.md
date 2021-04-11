@@ -15,11 +15,11 @@ A terrain generation mod for CubeWorld.
 
 ## Compatibility Table
   
-| <div align="center">Version :</div>                | <div align="center">CWSDK-7.1</div>     | <div align="center">CWSDK-6.1</div>  | <div align="center">CWSDK-5.1</div>  |
+| Version :              | CWSDK-7.1    | CWSDK-6.1 | CWSDK-5.1  |
 | -----------              |:-------------:| ----------:| ----------:|
-| <div align="center">BetterBiomes 1.0 </div>         |               |            |            |
-| <div align="center">BetterBiomes 1.1 </div>        |               |            |  <div align="center">&#10003;</div>  |
-| <div align="center">BetterBiomes Fan-Update </div> | 	<div align="center">&#10003;</div>     |            |            |
+| BetterBiomes 1.0         |               |            |            |
+| BetterBiomes 1.1       |               |            |  &#10003; |
+| BetterBiomes Fan-Update | 	&#10003;    |            |            |
 
 ## Side Note
 
