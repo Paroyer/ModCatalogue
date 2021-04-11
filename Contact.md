@@ -16,6 +16,8 @@ If you have a suggestion or any problem with this GitHub Pages, you can always c
 
 _________________
 
+## Or you can always leave a comment directly here:
+
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
         issue-term="pathname"
