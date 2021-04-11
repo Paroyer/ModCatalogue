@@ -48,7 +48,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
+  padding: 10px;
   margin-top: -22px;
   color: #606060;
   font-weight: bold;
