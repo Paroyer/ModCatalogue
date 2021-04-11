@@ -15,7 +15,15 @@ A terrain generation mod for CubeWorld.
 
 ## Compatibility Table
   
-<div align="center">Some test</div>
+.center[
+
+| Tables | Are | Cool |
+| ------------- |:-------------:| -----:|
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
+
+]
  
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
