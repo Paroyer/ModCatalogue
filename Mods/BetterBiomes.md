@@ -15,6 +15,12 @@ A terrain generation mod for CubeWorld.
 
 ## Compatibility Table
   
+  <div style="text-align:center;">
+    <table>
+      ...
+    </table>
+  </div>  
+  
 | Version :              | CWSDK-7.1    | CWSDK-6.1 | CWSDK-5.1  |
 | -----------              |:-------------:| ----------:| ----------:|
 | BetterBiomes 1.0         |               |            |            |
