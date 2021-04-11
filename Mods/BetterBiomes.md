@@ -28,6 +28,6 @@ A terrain generation mod for CubeWorld.
 
 ## Links
 
-**Original Author Repo:** [BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
 
-**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) 
