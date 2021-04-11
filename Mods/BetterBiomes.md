@@ -29,7 +29,7 @@ A terrain generation mod for CubeWorld.
 | -----------              |:-------------:| ----------:| ----------:|
 | BetterBiomes 1.0         |               |            |            |
 | BetterBiomes 1.1       |               |            |  &#10003;{: .right} |
-| BetterBiomes Fan-Update | 	&#10003;    |            |            |
+| BetterBiomes Fan-Update | 	&#10003; {: .right}    |            |            |
 
 ## Side Note
 
