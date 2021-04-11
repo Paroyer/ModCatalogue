@@ -16,11 +16,16 @@ A terrain generation mod for CubeWorld.
 ## Compatibility Table
   
 
-
 <style>
-		table  {
-		text-align: center;
-		}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
 </style>
  
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
