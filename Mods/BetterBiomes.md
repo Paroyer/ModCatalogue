@@ -140,7 +140,9 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
+  <div align="center" markdown="1">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KtntFipuLXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
   <div class="text">Caption Two</div>
 </div>
 
@@ -190,10 +192,8 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
 </body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Links
 
