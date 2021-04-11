@@ -34,3 +34,14 @@ A terrain generation mod for CubeWorld.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) 
+
+## Comments:
+
+<script src="https://utteranc.es/client.js"
+        repo="Paroyer/Comment" 
+        issue-term="pathname"
+        theme="github-dark"
+        label="Comment"
+        crossorigin="anonymous"
+        async>
+</script>  
