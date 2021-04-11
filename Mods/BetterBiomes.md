@@ -48,7 +48,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 13px;
+  padding: 16px;
   margin-top: -22px;
   color: #606060;
   font-weight: bold;
@@ -78,15 +78,6 @@ img {vertical-align: middle;}
   bottom: 8px;
   width: 100%;
   text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #606060;
-  font-size: 12px;
-  padding: 5px 5px;
-  position: absolute;
-  top: 0;
 }
 
 /* The dots/bullets/indicators */
@@ -133,21 +124,18 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1/3</div>
   <div align="center" markdown="1">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-  <div class="text">Caption Text</div>
+  <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2/3</div>
   <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:100%">
   <div class="text">Before</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3/3</div>
   <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:100%">
   <div class="text">After</div>
 </div>
