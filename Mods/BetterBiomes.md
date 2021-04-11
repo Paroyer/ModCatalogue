@@ -15,7 +15,7 @@ A terrain generation mod for CubeWorld.
 
 ## Compatibility Table
   
-
+<center>
  
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
@@ -23,7 +23,7 @@ A terrain generation mod for CubeWorld.
 | BetterBiomes-1.1        |               |            |  &#10003;   |
 | BetterBiomes-FanUpdate  | 	&#10003;    |            |             |
 
-
+</center>
   
 ## Side Note
 
