@@ -50,7 +50,7 @@ img {vertical-align: middle;}
   width: auto;
   padding: 16px;
   margin-top: -22px;
-  color: white;
+  color: #606060;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -82,7 +82,7 @@ img {vertical-align: middle;}
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: #606060;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
@@ -133,23 +133,23 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1/3</div>
+  <div align="center" markdown="1">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <div align="center" markdown="1">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KtntFipuLXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="text">Caption Two</div>
+  <div class="numbertext">2/3</div>
+  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:100%">
+  <div class="text">Before</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="img_mountains_wide.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="numbertext">3/3</div>
+  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:100%">
+  <div class="text">After</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
