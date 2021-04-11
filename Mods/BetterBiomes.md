@@ -18,9 +18,9 @@ A terrain generation mod for CubeWorld.
  
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BetterBiomes 1.0        |               |            |             |
-| BetterBiomes 1.1        |               |            |  &#10003;   |
-| BetterBiomes Fan-Update | 	&#10003;    |            |             |
+| BetterBiomes-1.0        |               |            |             |
+| BetterBiomes-1.1        |               |            |  &#10003;   |
+| BetterBiomes-FanUpdate  | 	&#10003;    |            |             |
 
 ## Side Note
 
@@ -28,6 +28,6 @@ A terrain generation mod for CubeWorld.
 
 ## Links
 
-Original Author Repo: https://github.com/ParanormalVibe/BetterBiomes Julyuary
+Original Author Repo: [BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) [Julyuary](https://github.com/ParanormalVibe)
 
-Fan-Update: https://github.com/Paroyer/BetterBiomes-FanUpdate
+FanUpdate: [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) 
