@@ -2,11 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
-.table {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
+.right{
+     text-align: right;
+}
+.left{
+     text-align: left;
+}
+.center{
+     text-align: center;
 }
 .inner {
   a {
