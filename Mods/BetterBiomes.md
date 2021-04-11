@@ -184,13 +184,6 @@ function showSlides(n) {
 </script>
 </body>
 
-<section class="main-slides">
-	{% for slide in site.slides %}
-	<article class="slide">
-		<iframe class="slideshow-iframe" src="{{ site.github.url }}{{ slide.url }}"></iframe>
-	</article>
-	{% endfor %}
-</section>
 
 ## Links
 
