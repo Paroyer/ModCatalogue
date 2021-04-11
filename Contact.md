@@ -4,11 +4,9 @@ title: Contact
 description: Need helps, suggestion?
 ---
 
-### Contact
+## Contact
 
 Having trouble with this test pages? Check out our [Discord](https://discord.gg/XU3qZQuyvw) or [TestLink](https://imgur.com/a/Mu4zwl9) and have fun.
-
-_________________
 
 If you have a suggestion or any problem with this GitHub Pages, you can always contact me directly:
 
@@ -16,7 +14,7 @@ If you have a suggestion or any problem with this GitHub Pages, you can always c
 
 _________________
 
-## Or you can always leave a comment directly here:
+### Or you can always leave a comment directly here:
 
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
