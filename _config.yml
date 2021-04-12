@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
+webrick:
+  headers:
+  Content-Security-Policy: connect-src https: wss: https://www.google-analytics.com https://stats.g.doubleclick.net; default-src 'self'; block-all-mixed-content; img-src * data: blob:; media-src * data: blob:; frame-ancestors https://supervisor.ext-twitch.tv https://extension-files.twitch.tv https://*.twitch.tv https://*.twitch.tech https://localhost.twitch.tv:* https://localhost.twitch.tech:* http://localhost.rig.twitch.tv:*; font-src https://fonts.googleapis.com https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; script-src 'self'https://extension-files.twitch.tv https://www.google-analytics.com;
