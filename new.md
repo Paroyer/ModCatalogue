@@ -27,6 +27,12 @@ description: swag description
     </div>
 </body>
 
+<iframe id="chat_embed"
+        src="https://www.twitch.tv/embed/hebo/chat?parent=streamernews.example.com"
+        height="500"
+        width="350">
+</iframe>
+
 ## Comments:
 
 <script src="https://utteranc.es/client.js"
