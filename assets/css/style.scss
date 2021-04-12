@@ -91,7 +91,7 @@ img {vertical-align: middle;}
 }
 
 .twitch .twitch-video iframe {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 100%;
   top: 0;
@@ -119,7 +119,7 @@ img {vertical-align: middle;}
   .twitch .twitch-chat {
     width: 25%;
     height: auto;
-    position: absolute;
+    position: relative;
     top: 0;
     right: 0;
     bottom: 0;
