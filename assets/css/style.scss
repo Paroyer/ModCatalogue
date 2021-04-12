@@ -89,9 +89,8 @@ img {vertical-align: middle;}
   position: relative;
   height: 0;
 }
-
 .twitch .twitch-video iframe {
-  position: relative;
+  position: absolute;
   margin-left:5%; 
   width: 100%;
   height: 100%;
@@ -100,9 +99,7 @@ img {vertical-align: middle;}
 .twitch .twitch-chat {
   height: 400px;
 }
-
 .twitch .twitch-chat iframe {
-  position: relative;
   margin-left:5%; 
   width:100%; 
   height:100%;   
@@ -111,11 +108,9 @@ img {vertical-align: middle;}
   .twitch {
     position: relative;
   }
-  
   .twitch .twitch-video {
-    height:125%;
-    width: 125%;
-    margin-left:5%; 
+    width: 75%;
+    margin-left:5%;    
     padding-top: 42.1875%;
   }
 
@@ -123,7 +118,7 @@ img {vertical-align: middle;}
     margin-left:5%;
     width: 25%;
     height: auto;
-    position: relative;
+    position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
