@@ -34,7 +34,7 @@ description: swag description
 <div class="twitch">
   <div class="twitch-video">
     <iframe
-      src="https://player.twitch.tv/?channel=monstercat&autoplay=false"
+      src="https://player.twitch.tv/?channel=monstercat&parent=paroyer.github.io&autoplay=false"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true"
@@ -46,7 +46,7 @@ description: swag description
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/monstercat/chat"
+      src="https://www.twitch.tv/embed/monstercat/chat?parent=paroyer.github.io"
       height="100%"
       width="100%">
     </iframe>
