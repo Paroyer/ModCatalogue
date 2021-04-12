@@ -12,7 +12,7 @@ description: swag description
 <div class="twitch">
   <div class="twitch-video">
     <iframe
-      src="https://player.twitch.tv/?channel=monstercat&autoplay&parent=paroyer.github.io&autoplay=false"
+      src="https://player.twitch.tv/?channel=monstercat&!autoplay&parent=paroyer.github.io&autoplay=false"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true">
