@@ -8,10 +8,10 @@ description: swag description
 ## VideoPlaylistTest
 
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-
-<p align="center">
+<body>
+    <div style="width:800px; margin:0 auto;">
     <!-- Add a placeholder for the Twitch embed -->
-    <div id="twitch-embed" align="center"></div>
+    <div id="twitch-embed"></div>
     <!-- Load the Twitch embed script -->
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
@@ -24,7 +24,8 @@ description: swag description
         parent: ["embed.example.com", "othersite.example.com"]
       });
     </script>
- </p>
+    </div>
+</body>
 
 ## Comments:
 
