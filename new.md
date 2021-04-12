@@ -28,9 +28,6 @@ description: swag description
     </div>
 </body>
 
-<head>
-<meta http-equiv="Content-Security-Policy" content="default-src *; img-src *; media-src *; style-src *.twimg.com/ https://*.twitter.com https://maxcdn.bootstrapcdn.com/bootstrap/ https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.googleapis.com/ 'self' 'unsafe-inline'; script-src *.twimg.com/ https://ajax.cloudflare.com https://player.twitch.tv https://s.ytimg.com/ https://www.youtube.com/ https://*.twitter.com https://cdnjs.cloudflare.com https://code.jquery.com http://www.youtube.com/iframe_api https://embed.twitch.tv/embed/v1.js 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com https://cdn.jsdelivr.net;"/>
-</head>
 <div class="twitch">
   <div class="twitch-video">
     <iframe
@@ -38,8 +35,8 @@ description: swag description
       frameborder="0"
       scrolling="no"
       allowfullscreen="true"
-      height="100%"
-      width="100%">
+      height="120%"
+      width="120%">
     </iframe>
   </div>
   <div class="twitch-chat">
@@ -47,8 +44,8 @@ description: swag description
       frameborder="0"
       scrolling="no"
       src="https://www.twitch.tv/embed/monstercat/chat?parent=paroyer.github.io"
-      height="100%"
-      width="100%">
+      height="120%"
+      width="120%">
     </iframe>
   </div>
 </div>
