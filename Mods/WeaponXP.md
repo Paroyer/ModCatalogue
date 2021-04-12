@@ -17,8 +17,9 @@ Add a xp hook to hit number, and change weapon rarity based on level
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| WeaponXP.cwmod          |    &#10003;   |            |             |
 
+\*As a legacy mod it's directly compatible with the last version of the modloader, dont use the .dll wrapper \*
 
 </div>
   
