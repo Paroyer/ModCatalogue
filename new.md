@@ -27,6 +27,27 @@ description: swag description
     </div>
 </body>
 
+<div class="twitch">
+  <div class="twitch-video">
+    <iframe
+      src="https://player.twitch.tv/?channel=phil_nash&parent=philna.sh&autoplay=false"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen="true"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+  <div class="twitch-chat">
+    <iframe
+      frameborder="0"
+      scrolling="no"
+      src="https://www.twitch.tv/embed/phil_nash/chat?parent=philna.sh"
+      height="100%"
+      width="100%">
+    </iframe>
+  </div>
+</div>
 
 ## Comments:
 
