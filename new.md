@@ -11,7 +11,7 @@ description: swag description
 
   <body>
     <!-- Add a placeholder for the Twitch embed -->
-    <div id="twitch-embed"></div>
+    <div id="twitch-embed" align="center"></div>
     <!-- Load the Twitch embed script -->
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
