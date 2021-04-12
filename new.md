@@ -15,6 +15,7 @@ description: swag description
       src="https://player.twitch.tv/?channel=monstercat&parent=paroyer.github.io&autoplay=false"
       frameborder="0"
       scrolling="no"
+      height="500"
       allowfullscreen="true">
     </iframe>
   </div>
