@@ -18,8 +18,8 @@ description: swag description
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 90%,
-        height: 90%,
+        width: 854,
+        height: 480,
         channel: "monstercat",
         // only needed if your site is also embedded on embed.example.com and othersite.example.com 
         parent: ["embed.example.com", "othersite.example.com"]
@@ -28,10 +28,7 @@ description: swag description
     </div>
 </body>
 
- <meta
-      http-equiv="Content-Security-Policy"
-      content="default-src *; img-src *; media-src *; style-src *.twimg.com/ https://*.twitter.com https://maxcdn.bootstrapcdn.com/bootstrap/ https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.googleapis.com/ 'self' 'unsafe-inline'; script-src *.twimg.com/ https://ajax.cloudflare.com https://player.twitch.tv https://s.ytimg.com/ https://www.youtube.com/ https://*.twitter.com https://cdnjs.cloudflare.com https://code.jquery.com http://www.youtube.com/iframe_api https://embed.twitch.tv/embed/v1.js 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com https://cdn.jsdelivr.net;"
-    />
+ <meta http-equiv="Content-Security-Policy" content="default-src *; img-src *; media-src *; style-src *.twimg.com/ https://*.twitter.com https://maxcdn.bootstrapcdn.com/bootstrap/ https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://fonts.googleapis.com/ 'self' 'unsafe-inline'; script-src *.twimg.com/ https://ajax.cloudflare.com https://player.twitch.tv https://s.ytimg.com/ https://www.youtube.com/ https://*.twitter.com https://cdnjs.cloudflare.com https://code.jquery.com http://www.youtube.com/iframe_api https://embed.twitch.tv/embed/v1.js 'self' 'unsafe-inline' 'unsafe-eval' http://www.google.com https://cdn.jsdelivr.net;"/>
 <div class="twitch">
   <div class="twitch-video">
     <iframe
