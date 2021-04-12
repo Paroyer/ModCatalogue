@@ -35,7 +35,7 @@ description: swag description
       frameborder="0"
       scrolling="no"
       allowfullscreen="true"
-      style="padding-bottom: 10%; margin-left:-35%; width:150%; height:150%;">
+      style="margin-left:-35%; width:150%; height:150%;">
     </iframe>
   </div>
   <div class="twitch-chat">
@@ -43,12 +43,19 @@ description: swag description
       frameborder="0"
       scrolling="no"
       src="https://www.twitch.tv/embed/monstercat/chat?parent=paroyer.github.io"
-      style="padding-bottom: 10%; margin-left:45%; width:150%; height:150%;">
+      style="margin-left:45%; width:150%; height:150%;">
     </iframe>
   </div>
 </div>
 
 ## Comments:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
