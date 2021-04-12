@@ -28,7 +28,7 @@ description: swag description
 </body>
 
 <iframe id="chat_embed"
-        src="https://www.twitch.tv/embed/hebo/chat?parent=streamernews.example.com"
+        src="https://www.twitch.tv/embed/monstercat"
         height="500"
         width="350">
 </iframe>
