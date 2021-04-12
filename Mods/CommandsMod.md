@@ -88,7 +88,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CommandMod](https://github.com/ChrisMiuchiz/Cube-World-Chat-Mod) by [ChrisMiuchiz Cubeworld God](https://github.com/ChrisMiuchiz)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CommandMod](https://github.com/ChrisMiuchiz/Cube-World-Commands-Mod) by [ChrisMiuchiz Cubeworld God](https://github.com/ChrisMiuchiz)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
