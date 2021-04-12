@@ -34,14 +34,14 @@ description: swag description
       src="https://player.twitch.tv/?channel=monstercat&parent=paroyer.github.io&autoplay=false"
       frameborder="0"
       scrolling="no"
-      allowfullscreen="true"
+      allowfullscreen="true">
     </iframe>
   </div>
   <div class="twitch-chat">
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/monstercat/chat?parent=paroyer.github.io"
+      src="https://www.twitch.tv/embed/monstercat/chat?parent=paroyer.github.io">
     </iframe>
   </div>
 </div>
