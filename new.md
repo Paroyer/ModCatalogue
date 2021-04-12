@@ -27,8 +27,7 @@ description: swag description
     </div>
 </body>
 
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' player.twitch.tv * player.twitch.tv">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self' twitch.tv *.twitch.tv">
+Content-Security-Policy: script-src 'self' https://player.twitch.tv
 <div class="twitch">
   <div class="twitch-video">
     <iframe
