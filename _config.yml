@@ -1,6 +1,3 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
-webrick:
-  headers:
-  Content-Security-Policy: frame-ancestors https://supervisor.ext-twitch.tv https://extension-files.twitch.tv https://*.twitch.tv https://*.twitch.tech https://localhost.twitch.tv:* https://localhost.twitch.tech:* http://player.twitch.tv:*;
