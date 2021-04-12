@@ -23,7 +23,7 @@ description: swag description
     <iframe
       frameborder="0"
       scrolling="no"
-      src="https://www.twitch.tv/embed/monstercat/chat?darkpopout?parent=paroyer.github.io">
+      src="https://www.twitch.tv/embed/monstercat/chat?darkpopout&parent=paroyer.github.io">
     </iframe>
   </div>
 </div>
