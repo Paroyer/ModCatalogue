@@ -27,7 +27,6 @@ description: swag description
     </div>
 </body>
 
-Content-Security-Policy: script-src 'self' https://player.twitch.tv
 <div class="twitch">
   <div class="twitch-video">
     <iframe
