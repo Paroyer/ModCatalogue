@@ -27,6 +27,8 @@ description: swag description
   </div>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
 <body>
     <div style="position:relative; margin-left:-20%;">
     <!-- Add a placeholder for the Twitch embed -->
@@ -45,8 +47,6 @@ description: swag description
     </script>
     </div>
 </body>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ## Comments:
 
