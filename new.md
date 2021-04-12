@@ -9,7 +9,7 @@ description: swag description
 
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <body>
-    <div style="width:800px; margin:0 auto;">
+    <div style="position:relative; margin-left:-75px;">
     <!-- Add a placeholder for the Twitch embed -->
     <div id="twitch-embed"></div>
     <!-- Load the Twitch embed script -->
@@ -26,12 +26,6 @@ description: swag description
     </script>
     </div>
 </body>
-
-<iframe id="chat_embed"
-        src="https://www.twitch.tv/embed/monstercat"
-        height="500"
-        width="350">
-</iframe>
 
 ## Comments:
 
