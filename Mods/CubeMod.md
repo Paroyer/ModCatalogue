@@ -53,7 +53,7 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
 </div>
 
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" src='https://gfycat.com/ifr/HonoredSereneEwe' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe></iframe></p>
+<p align="center"><iframe style="width:90%" src='https://thumbs.gfycat.com/HonoredSereneEwe-mobile.mp4' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
