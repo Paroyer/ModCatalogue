@@ -10,7 +10,7 @@ Let you change specialization via a chat command,
 
 /trans class <class_type>
 
-/trans spec <0|1>
+/trans spec <0\|1>
 
 ## Known Bugs and/or Conflict
 
