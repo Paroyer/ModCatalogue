@@ -6,7 +6,7 @@ description: CubeMod description
 
 # CubeMod 
 
-Let you /setcenter and scale mob/item with distance
+A Cube World mod adding item/enemy scaling, useful artifact stats, modified item spawn rates, and pvp. Let you /setcenter and scale mob/item with distance.
 
 ## Known Bugs and/or Conflict
 
@@ -32,7 +32,7 @@ Let you /setcenter and scale mob/item with distance
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
- 
+  
 <div class="mySlides fade">
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/5-30AJhvIrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
@@ -52,6 +52,11 @@ Let you /setcenter and scale mob/item with distance
   <div class="text"><u>After</u></div>
 </div>
 
+<div class="mySlides fade">
+<p align="center"><iframe style="width:90%" src='https://gfycat.com/ifr/HonoredSereneEwe' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe></iframe></p>
+  <div class="text"><!--Nothing--></div>
+</div>
+
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
@@ -59,7 +64,8 @@ Let you /setcenter and scale mob/item with distance
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
