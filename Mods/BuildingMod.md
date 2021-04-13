@@ -28,7 +28,7 @@ Let you build stuff
 <body>
 <div class="slideshow-container">
  
-<div class="mySlides fade">cKJFSh43a9k
+<div class="mySlides fade">
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/JKwMSxpdwqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
