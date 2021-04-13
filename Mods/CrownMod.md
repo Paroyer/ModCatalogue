@@ -6,7 +6,7 @@ description: CrownMod description
 
 # CrownMod 
 
-Let you wear crown
+Let you wear a crown
 
 ## Known Bugs and/or Conflict
 
@@ -17,7 +17,7 @@ Let you wear crown
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| CrownMod.dll            |    &#10003;   |            |             |
 
 
 </div>
@@ -30,7 +30,7 @@ Let you wear crown
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/wDxXT9oQtZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
@@ -88,9 +88,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CrownMod](https://www.dropbox.com/s/sfpmhgfiugcvimu/Crown%20Mod.rar?dl=0&file_subpath=%2FCrownMod_v_2.dll) by [Nichiren](https://github.com/thetrueoneshots)
 ## Comments:
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
