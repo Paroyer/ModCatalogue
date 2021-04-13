@@ -17,7 +17,7 @@ Pvp tournament mod, let you challenge your friends in arena ( other mod wont loa
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| TournamentClient.dll    |    &#10003;   |            |             |
 
 
 </div>
@@ -30,7 +30,7 @@ Pvp tournament mod, let you challenge your friends in arena ( other mod wont loa
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/NXeGXpcvX1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
@@ -88,8 +88,9 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [TournamentClient](https://cdn.discordapp.com/attachments/650099709385637928/757197372404137984/TournamentClient_V_0_2.dll) by [Nichiren](https://github.com/thetrueoneshots)
+
+\*Remove _V_0_2 at the end for it to load\*
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
