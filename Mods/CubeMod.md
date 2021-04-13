@@ -39,22 +39,29 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
 </div>
 
 <div class="mySlides fade">
+<p align="center"><iframe style="width:90%" src='https://thumbs.gfycat.com/HonoredSereneEwe-mobile.mp4' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe></p>
+  <div class="text"><!--Nothing--></div>
+</div>
+
+<div class="mySlides fade">
   <div align="center">
-  <img src="https://thumbs.gfycat.com/HonoredSereneEwe-mobile.mp4" style="width:90%">
+  <img src="https://i.imgur.com/H7WvwiN.png" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
+  <div class="text"><u>EnemyScaling</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
   <img src="https://i.imgur.com/G1Z7k8i.png" style="width:90%">
   </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>Stats</u></div>
 </div>
 
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" src='https://thumbs.gfycat.com/HonoredSereneEwe-mobile.mp4' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe></iframe></p>
-  <div class="text"><!--Nothing--></div>
+  <div align="center">
+  <img src="https://i.imgur.com/LsQf9fq.png" style="width:90%">
+  </div>
+  <div class="text"><u>ItemScaling</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -65,7 +72,8 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
