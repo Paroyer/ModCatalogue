@@ -43,7 +43,7 @@ Adds too much stuff to list atm
   <div align="center">
   <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/WIP.png?token=ANK6PUYXKVSNH446N3BKL2LAPZABI" style="width:90%">
   </div>
-  <div class="text"><u>Quest[WIP]</u></div>
+  <div class="text" style="color:red;"><u>Quest[WIP]</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
