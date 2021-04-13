@@ -29,7 +29,9 @@ Let you actually chat
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png" style="width:90%">
+  </div>
   <div class="text"><!--Nothing--></div>
 </div>
 
@@ -37,14 +39,7 @@ Let you actually chat
   <div align="center">
   <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
-</div>
-
-<div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>PlaceHolder</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -54,7 +49,6 @@ Let you actually chat
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
