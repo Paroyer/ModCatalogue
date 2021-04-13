@@ -42,6 +42,8 @@ _________________
 
 ***[InfiniteStackMod.dll](https://paroyer.github.io/ModCatalogue/Mods/InfiniteStackMod) , [ZaneYork](https://github.com/ZaneYork)*** : Bypass all the game stack limite, pretty usefull until there's a proper Capacity Fix mod for Apple/Lemon/Banana
 
+***[UnlockMapIconMod.dll](https://paroyer.github.io/ModCatalogue/Mods/UnlockMapIconMod) , [ZaneYork](https://github.com/ZaneYork)*** : Let you show some icons on the map
+
 ***[ClassLoader.dll](https://paroyer.github.io/ModCatalogue/Mods/ClassLoader) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ * That one is a personal favorite, concept mod ( not 100% polish) but still amazing, there's a talent tree hiden in here 👀
 
 ***[CrownMod.dll](https://paroyer.github.io/ModCatalogue/Mods/CrownMod) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Little mod mostly unknown, let you ''wear'' a crown. The placement of some arent 100% accurate, but still another nice concept mod.
