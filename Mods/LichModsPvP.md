@@ -88,7 +88,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [LichGroupPVP](https://github.com/thetrueoneshots/LichGroup-CubePVP) by [Julyuary](https://github.com/thetrueoneshots)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [LichGroupPVP](https://github.com/thetrueoneshots/LichGroup-CubePVP) by [Nichiren](https://github.com/thetrueoneshots)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
