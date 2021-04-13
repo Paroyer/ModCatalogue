@@ -10,6 +10,7 @@ Let you create custom class or just use the skill tree with any class (Skills ch
 
 ## Known Bugs and/or Conflict
 
+&bull; Doesnt work with the CubeMegaMod and other mods that try to add a new class, like the monk.
 
 ## Compatibility Table
   
@@ -17,7 +18,7 @@ Let you create custom class or just use the skill tree with any class (Skills ch
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| ClassLoader.dll         |    &#10003;   |            |             |
 
 
 </div>
@@ -88,8 +89,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CubeClassLoader](https://github.com/thetrueoneshots/CubeClassLoader) by [Nichiren](https://github.com/thetrueoneshots)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
