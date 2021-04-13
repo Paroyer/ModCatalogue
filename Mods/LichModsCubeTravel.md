@@ -17,7 +17,7 @@ Make boat/glider/reins not regionLock
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| LichModsCubeTravel.dll  |    &#10003;   |            |             |
 
 
 </div>
@@ -88,8 +88,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [Cube-Travel](https://github.com/LockManipulator/Cube-Travel) by [LichGroup](https://github.com/LockManipulator)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
