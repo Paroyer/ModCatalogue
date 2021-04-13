@@ -10,6 +10,7 @@ Let you /setcenter and scale mob/item with distance
 
 ## Known Bugs and/or Conflict
 
+&bull; Artifacts are shown multiple time in the top left bar
 
 ## Compatibility Table
   
@@ -17,12 +18,15 @@ Let you /setcenter and scale mob/item with distance
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| cubemod.cwmod           |    &#10003;   |            |             |
 
+\*As a legacy mod it's directly compatible with the last version of the modloader, dont use the .dll wrapper \*
 
 </div>
   
 ## Side Note
+
+&bull; Be carefull on the Repo link, the latest version shown on the right side is 1.0. Actually it's 1.02, check all Release to be sure.
 
 ## Media Placeholder
 <!--START_SLIDESHOW-->
@@ -30,20 +34,20 @@ Let you /setcenter and scale mob/item with distance
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/5-30AJhvIrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://thumbs.gfycat.com/HonoredSereneEwe-mobile.mp4" style="width:90%">
   </div>
   <div class="text"><u>Before</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
+  <img src="https://i.imgur.com/G1Z7k8i.png" style="width:90%">
   </div>
   <div class="text"><u>After</u></div>
 </div>
@@ -88,8 +92,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [cubemod](https://github.com/arishackstv/cubemod) by [ArishHack](https://github.com/arishackstv)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
