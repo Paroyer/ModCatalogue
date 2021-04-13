@@ -28,23 +28,24 @@ Let you build stuff
 <body>
 <div class="slideshow-container">
  
-<div class="mySlides fade">
+<div class="mySlides fade">cKJFSh43a9k
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/JKwMSxpdwqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
 <div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>Before</u></div>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/cKJFSh43a9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <div class="text"><!--Nothing--></div>
 </div>
 
 <div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>After</u></div>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/Gl0tfFTwLM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <div class="text"><!--Nothing--></div>
+</div>
+
+<div class="mySlides fade">
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/hHpmmWgj-o0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <div class="text"><!--Nothing--></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -55,6 +56,7 @@ Let you build stuff
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
