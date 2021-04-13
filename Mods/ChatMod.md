@@ -30,7 +30,7 @@ Let you actually chat
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png?token=ANK6PU2HDBHVTB3QIKDL4M3APYNJW" style="width:90%">
   </div>
   <div class="text"><!--Nothing--></div>
 </div>
