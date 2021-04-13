@@ -17,7 +17,7 @@ Sincerly I dont know what that one do exactly, all i know is that it may be usef
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| LocalizationMod.dll     |    &#10003;   |            |             |
 
 
 </div>
@@ -88,8 +88,9 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CubeWorldMods](https://github.com/ZaneYork/CubeWorldMods) by [ZaneYork](https://github.com/ZaneYork)
+
+\*One repo for all his mods, just drag and drop the .dll you actually want\*
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
