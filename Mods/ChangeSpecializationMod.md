@@ -94,7 +94,7 @@ function showSlides(n) {
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [CubeWorldMods](https://github.com/ZaneYork/CubeWorldMods) by [ZaneYork](https://github.com/ZaneYork)
 
-One repo for all his mods, just drag and drop the .dll you actually want
+\*One repo for all his mods, just drag and drop the .dll you actually want\*
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
