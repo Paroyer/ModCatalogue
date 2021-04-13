@@ -10,6 +10,7 @@ Monk class, first version available in the CubeMegaMod
 
 ## Known Bugs and/or Conflict
 
+&bull; Obviously not compatible with the last version of CubeMegaMod
 
 ## Compatibility Table
   
@@ -17,7 +18,7 @@ Monk class, first version available in the CubeMegaMod
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| LichModsMonk.dll        |    &#10003;   |            |             |
 
 
 </div>
@@ -88,8 +89,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [Monk-Class](https://github.com/LockManipulator/Monk-Class) by [LichGroup](https://github.com/LockManipulator)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
