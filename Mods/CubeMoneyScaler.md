@@ -6,7 +6,7 @@ description: CubeMoneyScaler description
 
 # CubeMoneyScaler 
 
-Some Desc
+Scale your damage with how much gold you have. Also drop more money/items when your level gets higher, and regen some mana/stamina/hp on coin pick up.
 
 ## Known Bugs and/or Conflict
 
@@ -17,7 +17,7 @@ Some Desc
 
 | Version :               | CWSDK-7.1     | CWSDK-6.1  | CWSDK-5.1   |
 | :-----------:           |:-------------:| :---------:| :----------:|
-| BrightNight.cwmod       |    &#10003;   |            |             |
+| CubeMoneyScaler.dll     |    &#10003;   |            |             |
 
 
 </div>
@@ -30,22 +30,20 @@ Some Desc
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/fTOE-klU6j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
 <div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>Before</u></div>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/vXmbeTT7kwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+  <div class="text"><!--Nothing--></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
   <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
   </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>PlaceHolder</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -88,8 +86,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** <!--[BetterBiomes](https://github.com/ParanormalVibe/BetterBiomes) by [Julyuary](https://github.com/ParanormalVibe)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FanUpdate:** [BetterBiomes-FanUpdate](https://github.com/Paroyer/BetterBiomes-FanUpdate) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Link:** [CubeMoneyScaler](https://drive.google.com/file/d/1W9rbfzwnnNCSg4FIr0XMGu5nHg5xXjYo/view) by [Nichiren](https://github.com/thetrueoneshots)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
