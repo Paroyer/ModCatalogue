@@ -76,7 +76,7 @@ function showSlides(n) {
 
 ## Links
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [Enhanced_Atmosphere](https://drive.google.com/file/d/1j0E0t8KR29ywYzL49iB6_4_h1t2qrXwP/view?usp=sharing) by [Pikyso](https://www.reddit.com/r/CubeWorld/comments/mkzp5k/cube_world_enhanced_atmosphere_official_launch/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Original Author Repo:** [Cubeworld Enhanced_Atmosphere](https://drive.google.com/file/d/1j0E0t8KR29ywYzL49iB6_4_h1t2qrXwP/view?usp=sharing) by [Pikyso](https://www.reddit.com/r/CubeWorld/comments/mkzp5k/cube_world_enhanced_atmosphere_official_launch/)
 
 ## Comments:
 <script src="https://utteranc.es/client.js"
