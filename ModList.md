@@ -72,9 +72,10 @@ _________________
 
 ***[dxgi.dll\*InMainFolder](https://paroyer.github.io/ModCatalogue/Mods/Reshade) , [Pikyso](https://www.reddit.com/r/CubeWorld/comments/mkzp5k/cube_world_enhanced_atmosphere_official_launch/)*** : * Reshade + Shader Pack for cubeworld release in the style of the alpha
 
+***[UnlimitedSwimming.dll](https://paroyer.github.io/ModCatalogue/Mods/UnlimitedSwimming) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Let you go underwater longuer.
+
 ***[NoGoldLoss.dll](https://paroyer.github.io/ModCatalogue/Mods/NoGoldLoss) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Remove gold loss.
 
-***[UnlimitedSwimming.dll](https://paroyer.github.io/ModCatalogue/Mods/UnlimitedSwimming) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ LEt you go underwater longuer.
 
 _________________
 
