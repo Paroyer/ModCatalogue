@@ -6,7 +6,7 @@ description: ChatMod description
 
 # ChatMod 
 
-Let you actually chat 
+Although Cube World has a chat box, chat is not implemented into multiplayer, as you will be the only one who can see your messages. This mod implements chat into multiplayer.
 
 ## Known Bugs and/or Conflict
 
