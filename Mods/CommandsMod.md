@@ -6,7 +6,7 @@ description: CommandsMod description
 
 # CommandsMod 
 
-Let you use some usefull commands
+This mod implements additional commands into Cube World. It also adds the ability to use the arrow keys to get messages you have previously sent, like how most command lines work.
 
 ## Known Bugs and/or Conflict
 
