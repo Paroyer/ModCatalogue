@@ -70,6 +70,8 @@ _________________
 
 ***[LichModsCubePatch.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsCubePatch) , [LichGroup](https://github.com/LockManipulator)*** : * Amazing : Fix artifacts bonus that dont work properly in the base game.
 
+***[dxgi.dll\*InMainFolder](https://paroyer.github.io/ModCatalogue/Mods/Reshade) , [Pikyso](https://www.reddit.com/r/CubeWorld/comments/mkzp5k/cube_world_enhanced_atmosphere_official_launch/)*** : * Reshade + Shader Pack for cubeworld release in the style of the alpha
+
 _________________
 
 
