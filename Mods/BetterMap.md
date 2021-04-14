@@ -6,7 +6,7 @@ description: BetterMap description
 
 # BetterMap
 
-Concept Mod based on Geo CT, using the CWSDK, turbo simple just writeByte at the address needed. Just to show that even a monkey with a computer can do a simple mod using the last version of the sdk properly
+Concept Mod based on Geo CT, using the CWSDK, turbo simple just writeByte at the address needed. Just to show that even a monkey with a computer can do a simple mod using the last version of the CWSDK.
 
 ## Known Bugs and/or Conflict
 
