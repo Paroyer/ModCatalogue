@@ -8,6 +8,8 @@ description: List of most cubeworld mods
 
 This is the list of all the known/relevant mods for cubeworld. They are listed as their actual .dll name for convenience, that way you can look up if you have a mod in your /Mods folder that you dont know the source or what it does. It is worth mentioning that some .cwmod listed here have a .dll loader, that was usefull a couple days, but since the modloader have legacy support for .cwmod those .dll are deprecated (WeaponXP.dll / BrightNight.dll / BetterProgression.dll). Just delete them, keep the .cwmod and you wont get any error regarding the CWSDK version.
 
+\[NEW\] New mod will get this tag.
+
 _**_Concept Mod_**_ is just a subjective way to say those mods are not 100% polished, which mean you may run into more bugs then with other mods.
 
 *Mods with an asterix are those I consider noteworthy for some reasons.
