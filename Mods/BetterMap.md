@@ -30,22 +30,24 @@ Concept Mod based on Geo CT, using the CWSDK, turbo simple just writeByte at the
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-  <div class="text"><!--Nothing--></div>
+  <div align="center">
+  <img src="https://media.discordapp.net/attachments/641283888798367754/826462677484175441/MaxZoomRot.png" style="width:90%">
+  </div>
+  <div class="text"><u>Max Zoom and Rotation</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/BetterMap/master/README/ShowQuestIcons.png" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
+  <div class="text"><u>QuestIcons</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/BetterMap/master/README/ShowQuestNames.png" style="width:90%">
   </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>QuestNames</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
