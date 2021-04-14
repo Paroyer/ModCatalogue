@@ -29,7 +29,7 @@ description: swag description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-<embed src="https://aiofeed.com/home" style="width:90%;">
+<embed src="https://aiofeed.com/home" style="width:100%;height:500px;">
 
 
 
