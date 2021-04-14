@@ -13,7 +13,9 @@ description: swag description
 ## Some Sub
 
 <!--Embed youtube -->
+<b>
 <p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</b>
 
 <!--Embed Twitch Video-->
 <div class="twitch">
