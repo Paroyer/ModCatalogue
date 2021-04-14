@@ -10,7 +10,7 @@ This is the list of all the known/relevant mods for cubeworld. They are listed a
 
 **\[NEW\]** New mod will get this tag.
 
-_**_Concept Mod_**_ is just a subjective way to say those mods are not 100% polished, which mean you may run into more bugs then with other mods.
+_**_Concept Mod_**_ Just a subjective way to say those mods are not 100% polished, which mean you may run into more bugs then with other mods.
 
 &#128945; Mods with an asterix are those I consider noteworthy for some reasons.
 
