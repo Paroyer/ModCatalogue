@@ -9,7 +9,7 @@ description: swag description
 
 ## VideoPlaylistTest
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JfJYHfrOGgQ" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
