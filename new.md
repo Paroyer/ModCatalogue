@@ -5,15 +5,9 @@ description: swag description
 ---
 # swag
 
-<iframe width="560" height="315" style="width:90%" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## VideoPlaylistTest
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JfJYHfrOGgQ" frameborder="0" gesture="media" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="twitch">
   <div class="twitch-video">
