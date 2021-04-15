@@ -7,7 +7,7 @@ description: swag description
 
 ## VideoPlaylistTest
 
-<iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/videoseries?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/?list=PLx0sYbCqOb8TBPRdmBHs5Iftvv9TPboYG" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="twitch">
   <div class="twitch-video">
