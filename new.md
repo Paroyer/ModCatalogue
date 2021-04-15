@@ -5,11 +5,11 @@ description: swag description
 ---
 # swag
 
-<iframe width="560" height="315" style="width:90%" src="https://www.youtube.com/embed/videoseries?list=PLxy45gNL5u2V0xkngsLrgZsMTu1mNNf7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="width:90%" src="https://www.youtube.com/embed/videoseries?list=PLxy45gNL5u2V0xkngsLrgZsMTu1mNNf7V" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## VideoPlaylistTest
 
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxy45gNL5u2V0xkngsLrgZsMTu1mNNf7V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxy45gNL5u2V0xkngsLrgZsMTu1mNNf7V" title="YouTube video player Test Play List" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <div class="twitch">
   <div class="twitch-video">
@@ -17,6 +17,7 @@ description: swag description
       src="https://player.twitch.tv/?channel=monstercat&!autoplay&parent=paroyer.github.io&autoplay=false"
       frameborder="0"
       scrolling="no"
+      title="myFrameTwitchVideo"
       allowfullscreen="true">
     </iframe>
   </div>
@@ -24,6 +25,7 @@ description: swag description
     <iframe
       frameborder="0"
       scrolling="no"
+      title="myFrameTwitchChat"
       src="https://www.twitch.tv/embed/monstercat/chat?darkpopout&parent=paroyer.github.io">
     </iframe>
   </div>
