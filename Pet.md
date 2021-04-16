@@ -29,7 +29,7 @@ _________________
 
 <details>
  <summary>Click to expand</summary>
-        <div style="margin-left:-10%;height:500px;width:120%;overflow:scroll;overflow-x: hidden;">
+        <div style="margin-left:-0%;height:500px;width:100%;overflow:scroll;overflow-x: hidden;">
         <embed src="https://i.imgur.com/B9uAesb.jpg" style="width:100%;"></div>
 </details>
 
