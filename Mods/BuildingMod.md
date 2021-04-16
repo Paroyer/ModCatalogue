@@ -23,7 +23,7 @@ Let you build stuff
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
