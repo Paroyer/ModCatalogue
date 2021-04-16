@@ -24,7 +24,7 @@ This mod implements additional commands into Cube World. It also adds the abilit
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
