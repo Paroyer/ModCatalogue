@@ -31,7 +31,7 @@ Let you create custom class or just use the skill tree with any class (Skills ch
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/bVcnNiLxbOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <div class="text"><!--Nothing--></div>
 </div>
 
