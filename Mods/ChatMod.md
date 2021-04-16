@@ -23,7 +23,7 @@ Although Cube World has a chat box, chat is not implemented into multiplayer, as
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
@@ -35,20 +35,13 @@ Although Cube World has a chat box, chat is not implemented into multiplayer, as
   <div class="text"><!--Nothing--></div>
 </div>
 
-<div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>PlaceHolder</u></div>
-</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span>
 </div>
 <!--START_SCrIPT-->
 <script>
