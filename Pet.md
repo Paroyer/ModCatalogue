@@ -3,11 +3,15 @@ layout: default
 title: Pet
 description: Pet description
 ---
-# Somethings
+# Catalogue of Pet & Food Model
 
-## PetTest
+https://imgur.com/a/DbxyhwB
 
-<embed src="https://klemek.github.io/cubeworld-pets/" style="width:500px; height: 300px;">
+## Pet-List Embed Test
+
+Source: https://klemek.github.io/cubeworld-pets/
+
+<embed src="https://klemek.github.io/cubeworld-pets/" style="width:90%; height: 500px;">
 
 ## Comments:
 
