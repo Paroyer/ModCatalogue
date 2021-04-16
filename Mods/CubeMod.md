@@ -28,7 +28,7 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
 
 &bull; Be carefull on the Repo link, the latest version shown on the right side is 1.0. Actually it's 1.02, check all Release to be sure and even tho it says to use Frognik modloader don't.
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
