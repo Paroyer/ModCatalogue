@@ -30,20 +30,29 @@ This mod implements additional commands into Cube World. It also adds the abilit
 <div class="slideshow-container">
  
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-  <div class="text"><!--Nothing--></div>
-</div>
-
-<div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help1.png?token=ANK6PU2YCM4PGZVCB3GKV4TAQIU2I" style="width:90%">
   </div>
   <div class="text"><u>Before</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help2.png?token=ANK6PU7LH634XVEBR6JQCDDAQIU2O" style="width:90%">
+  </div>
+  <div class="text"><u>Before</u></div>
+</div>
+
+<div class="mySlides fade">
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help3.png?token=ANK6PU3XFZNMQ2GFYV2ZCVTAQIU2W" style="width:90%">
+  </div>
+  <div class="text"><u>After</u></div>
+</div>
+
+<div class="mySlides fade">
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help4.png?token=ANK6PUZ2VGXZ2WIORXI2JL3AQIU3A" style="width:90%">
   </div>
   <div class="text"><u>After</u></div>
 </div>
@@ -56,6 +65,7 @@ This mod implements additional commands into Cube World. It also adds the abilit
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
