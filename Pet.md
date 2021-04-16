@@ -7,6 +7,8 @@ description: Pet description
 
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DbxyhwB" data-context="false" ><a href="//imgur.com/a/DbxyhwB">Pet &amp; Food IG Model</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 <embed src="https://i.imgur.com/xnL91s1.png" style="width:100%; height: 750px;">
 
 ## Pet-List Embed Test
