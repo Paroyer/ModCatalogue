@@ -25,7 +25,7 @@ Let you create custom class or just use the skill tree with any class (Skills ch
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
