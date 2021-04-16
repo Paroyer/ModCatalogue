@@ -7,7 +7,7 @@ description: Pet description
 
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
-<div style="height:240px;width:320px;overflow:scroll;">
+<div style="height:540px;width:100%;overflow:scroll;overflow-x: hidden;">
 <embed src="https://i.imgur.com/xnL91s1.png" style="width:100%;">
 </div>
 
