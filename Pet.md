@@ -24,12 +24,11 @@ _________________
 ## All Pet even non-tameable
 
 <details>
- <summary>Summary Goes Here</summary>
+ <summary>Click to expand</summary>
         <div style="height:500px;width:100%;overflow:scroll;overflow-x: hidden;">
-        <embed src="https://i.imgur.com/YvSwKp2.jpg" style="width:100%;"></div>
+        <embed src="https://i.imgur.com/B9uAesb.jpg" style="width:100%;"></div>
 </details>
 
-_________________ 
 
 ## Comments:
 
