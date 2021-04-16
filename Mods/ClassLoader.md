@@ -37,16 +37,16 @@ Let you create custom class or just use the skill tree with any class (Skills ch
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/SkillTree.png?token=ANK6PUY4S5XDRFJ6H47LRV3AQI2TQ" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
+  <div class="text"><u></u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/ClassSelect.png?token=ANK6PUYV5ZYYUJRRAWQC5WTAQI2TU" style="width:90%">
   </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u></u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
