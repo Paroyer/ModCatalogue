@@ -25,23 +25,23 @@ Stops nights from becoming pitch black, time 20:40 is the darkest it'll ever get
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/Before.png?token=ANK6PU47DVAZFK2PVH2JZQLAQIVCG" style="width:90%">
   </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>Before</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/After.png?token=ANK6PU6D5HDP2NZICJATUH3AQIVCC" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
+  <div class="text"><u>After</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
