@@ -5,7 +5,7 @@ description: Pet description
 ---
 # Catalogue of Pet & Food Model
 
-https://imgur.com/a/DbxyhwB
+[Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
 ## Pet-List Embed Test
 
