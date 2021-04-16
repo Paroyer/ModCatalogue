@@ -28,6 +28,8 @@ Let you change specialization via a chat command,
   
 ## Side Note
 
+&bull; Still have to test if that work with custom classes like the monk and such
+
 ## Media Placeholder
 <!--START_SLIDESHOW-->
 <body>
