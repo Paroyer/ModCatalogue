@@ -28,12 +28,12 @@ Sincerly I dont know what that one do exactly, all i know is that it may be usef
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
-  
+
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://github.com/Paroyer/ModCatalogue/blob/gh-pages/assets/images/Mods/LocalizationMod.png?raw=true" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/LocalizationMod.png?token=ANK6PU6754YZ6AKLIDTKUWTAQIP74" style="width:90%">
   </div>
-  <div class="text"></div>
+  <div class="text"><!--Nothing--></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
