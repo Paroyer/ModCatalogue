@@ -26,6 +26,9 @@ Let you change pet via a command,
   
 ## Side Note
 
+&bull; If you want to know a pet # check there [Ando Pet List](https://gist.github.com/Andoryuuta/e6bde7421dce393952b7071ba8c010ce)
+&bull; Or here for the actual picture: [Pet Model List](https://imgur.com/B9uAesb)
+
 ## Media Placeholder
 <!--START_SLIDESHOW-->
 <body>
