@@ -24,28 +24,23 @@ Fix guardian hp boost, +25% instead of +25 flat hp
   
 ## Side Note
 
-## Media Placeholder
+## Media
 <!--START_SLIDESHOW-->
 <body>
 <div class="slideshow-container">
- 
+
 <div class="mySlides fade">
-<p align="center"><iframe style="width:90%" width="560" height="315" src="https://www.youtube.com/embed/KYpNPXEdgfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-  <div class="text"><!--Nothing--></div>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/GuardianVanillaHp.png?token=ANK6PUYJPXTEGRIXPFYQN5TAQIVGY" style="width:90%">
+  </div>
+  <div class="text"><u>Vanilla</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/GuardianHpNoGear.png?token=ANK6PUZXWOICC47NOXNBNNDAQIVGO" style="width:90%">
   </div>
-  <div class="text"><u>Before</u></div>
-</div>
-
-<div class="mySlides fade">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG" style="width:90%">
-  </div>
-  <div class="text"><u>After</u></div>
+  <div class="text"><u>With Fix</u></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -55,7 +50,6 @@ Fix guardian hp boost, +25% instead of +25 flat hp
 <div style="text-align:center">
   <span class="dot" onclick="currentSlide(1)"></span> 
   <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
 <!--START_SCrIPT-->
 <script>
