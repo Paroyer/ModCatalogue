@@ -11,7 +11,7 @@ https://imgur.com/a/DbxyhwB
 
 Source: https://klemek.github.io/cubeworld-pets/
 
-<embed src="https://klemek.github.io/cubeworld-pets/" style="width:90%; height: 500px;">
+<embed src="https://klemek.github.io/cubeworld-pets/" style="width:100%; height: 500px;">
 
 ## Comments:
 
