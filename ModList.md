@@ -62,7 +62,7 @@ _________________
 
 ***[TournamentClient.dll](https://paroyer.github.io/ModCatalogue/Mods/TournamentClient) , [Nichiren](https://github.com/thetrueoneshots)*** : Let you challenge your friend in swag arena :D (other mods not available with this one to limit cheat)
 
-***[LichModsPvp.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsPvp) , [LichGroup](https://github.com/LockManipulator)*** : _**_Concept Mod_**_ Add a pvp toggle command 
+***[LichModsPvP.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsPvP) , [LichGroup](https://github.com/LockManipulator)*** : _**_Concept Mod_**_ Add a pvp toggle command 
 
 ***[LichModsMonk.dll](https://paroyer.github.io/ModCatalogue/Mods/LichModsMonk) , [LichGroup](https://github.com/LockManipulator)*** : _**_Concept Mod_**_ add a new class the monk a weaponless class. Some bugs are known with the megamod, and it overwrite 1 ranger abilities iirc. But dont worry it's comming soonish to the CubeMegaMod!
 
