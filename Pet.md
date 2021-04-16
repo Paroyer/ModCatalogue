@@ -7,7 +7,7 @@ description: Pet description
 
 ## PetTest
 
-
+<embed src="https://klemek.github.io/cubeworld-pets/" style="width:500px; height: 300px;">
 
 ## Comments:
 
