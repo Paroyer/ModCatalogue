@@ -21,6 +21,16 @@ _________________
 
 &bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, this is one of the most extensive pet list there is. It just miss the picture for foods and pets, so if ever you need to see them just use the [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
+## All Pet even non-tameable
+
+<detail>
+ <summary>Summary Goes Here</summary>
+        <div style="height:500px;width:100%;overflow:scroll;overflow-x: hidden;">
+        <embed src="https://i.imgur.com/YvSwKp2.jpg" style="width:100%;"></div>
+</detail>
+
+_________________ 
+
 ## Comments:
 
 <script src="https://utteranc.es/client.js"
