@@ -7,6 +7,8 @@ description: Pet description
 
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
+<embed src="https://imgur.com/a/DbxyhwB" style="width:100%; height: 750px;">
+
 ## Pet-List Embed Test
 
 [Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
