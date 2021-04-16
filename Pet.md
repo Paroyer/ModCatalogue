@@ -7,7 +7,7 @@ description: Pet description
 
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
-<div style="height:540px;width:100%;overflow:scroll;overflow-x: hidden;">
+<div style="height:750px;width:100%;overflow:scroll;overflow-x: hidden;">
 <embed src="https://i.imgur.com/xnL91s1.png" style="width:100%;">
 </div>
 
@@ -23,11 +23,11 @@ _________________
 
 ## Comments:
 
-<script src="https://utteranc.es/client.js"
+<div><script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
         issue-term="pathname"
         theme="github-dark"
         label="Comment"
         crossorigin="anonymous"
         async>
-</script>  
+</script></div>  
