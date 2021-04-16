@@ -6,7 +6,7 @@ description: LichModsCubePatch description
 
 # LichModsCubePatch
 
-Fix some artifacts
+Fix riding/gliding artifact bonus
 
 ## Known Bugs and/or Conflict
 
