@@ -15,7 +15,7 @@ description: Pet description
 
 [Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
 
-<embed src="https://klemek.github.io/cubeworld-pets/" style="width:100%; height: 750px;">
+<embed src="https://klemek.github.io/cubeworld-pets/" style="width:100%; height: 750px; scrolling="yes";">
 
 _________________ 
 
