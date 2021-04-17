@@ -17,6 +17,8 @@ _________________
 
 ## Pet-List Embed Test
 
+Pet without \[Rideable\] have a speed of 1:1 and those with 2:1
+
 [Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
 
 <embed src="https://klemek.github.io/cubeworld-pets/" style="width:100%; height: 500px;">
