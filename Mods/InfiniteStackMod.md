@@ -36,7 +36,7 @@ Bypass carry limits
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/CantCarryMore.png?token=ANK6PU5YUZUJHOG6EMXMCFTAQOIUC" style="width:90%">
   </div>
   <div class="text"><u>Before</u></div>
 </div>
