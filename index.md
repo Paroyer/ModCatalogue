@@ -22,5 +22,3 @@ Should be the eventual Table of Content
 ## &bull; [Alpha](https://paroyer.github.io/ModCatalogue/Alpha)
 
 
-_________________
-
