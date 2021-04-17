@@ -13,12 +13,22 @@ Should be the eventual Table of Content
 
 ## &bull; [Home](https://paroyer.github.io/ModCatalogue/)
 
-## &bull; [Guide](https://paroyer.github.io/ModCatalogue/Guide)
-
 ## &bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
+
+## &bull; [ModIdea](https://paroyer.github.io/ModCatalogue/Idea)
+
+## &bull; [Modding](https://paroyer.github.io/ModCatalogue/Modding)
+
+## &bull; [Pet](https://paroyer.github.io/ModCatalogue/Pet)
+
+## &bull; [Guide](https://paroyer.github.io/ModCatalogue/Guide)
 
 ## &bull; [Info](https://paroyer.github.io/ModCatalogue/Info)
 
+## &bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
+
 ## &bull; [Alpha](https://paroyer.github.io/ModCatalogue/Alpha)
 
+## &bull; [Contact](https://paroyer.github.io/ModCatalogue/Contact)
 
+## &bull; [About](https://paroyer.github.io/ModCatalogue/About)
