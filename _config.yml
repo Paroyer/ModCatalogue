@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Cubeworld Reference Page
 description: "[ WIP ]"
-markdown: GFM
+markdown: kramdown
