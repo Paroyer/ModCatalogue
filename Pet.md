@@ -4,7 +4,7 @@ title: Pet
 description: Pet description
 ---
 
-**\*General Info: You can actually name you pet however you like with /namepet <CustomName>*
+**General Info: You can actually name you pet however you like with /namepet \<CustomName\>**
 
 # Catalogue of Pet & Food Model
 
@@ -46,6 +46,7 @@ _________________
 
 ## Comments:
 
+<
 <script src="https://utteranc.es/client.js"
         repo="Paroyer/Comment" 
         issue-term="pathname"
@@ -54,3 +55,4 @@ _________________
         crossorigin="anonymous"
         async>
 </script>
+>
