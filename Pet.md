@@ -4,7 +4,7 @@ title: Pet
 description: Pet description
 ---
 
-***\*<u>General Info:</u> You can actually name you pet however you like with /namepet \<CustomName\>\* ***
+___\*<u>General Info:</u> You can actually name you pet however you like with /namepet \<CustomName\>\*___
 
 # Catalogue of Pet & Food Model
 
