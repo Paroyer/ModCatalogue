@@ -7,8 +7,8 @@ description: Patreon description
 
 ## PatreonTest
 
-<u>RandomDude:</u>
-<a href="https://www.patreon.com/bePatron?u=6986280" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
+<u>Nichiren:</u>
+<a href="https://www.patreon.com/bePatron?u=53107645" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 <script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ## Comments:
