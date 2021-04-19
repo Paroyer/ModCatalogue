@@ -4,7 +4,7 @@ title: Pet
 description: Pet description
 ---
 
-___\*<u>General Info:</u> You can actually name you pet however you like with /namepet \<CustomName\>\*___
+__\*<u>General Info:</u> You can actually name you pet however you like with /namepet \<CustomName\>\*__
 
 # Catalogue of Pet & Food Model
 
@@ -39,8 +39,6 @@ _________________
         <div style="margin-left:-5%;height:500px;width:110%;overflow:scroll;overflow-x: hidden;">
         <embed src="https://i.imgur.com/B9uAesb.jpg" style="width:100%;"></div>
 </details>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
