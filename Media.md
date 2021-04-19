@@ -5,11 +5,11 @@ description: Media description
 ---
 # Notable content creator
 
-[Youtube](https://paroyer.github.io/ModCatalogue/Youtube)
+&bull; [Youtube](https://paroyer.github.io/ModCatalogue/Youtube)
 
-[Twitch](https://paroyer.github.io/ModCatalogue/Twitch)
+&bull; [Twitch](https://paroyer.github.io/ModCatalogue/Twitch)
 
-[Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
+&bull; [Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
 
 ## MediaTest
 
