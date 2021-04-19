@@ -22,7 +22,7 @@ _________________
 
 Pet without **\[Rideable\]** have a speed of 1:1 and those with 2:1
 
-Only the Turtle is tag as **\[Tank\]** but the Baby Mamoth and Bark Beetle should be too
+Only the Turtle is tag as **\[Tank\]**, but the Baby Mamoth and Bark Beetle should be too
 
 [Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
 
