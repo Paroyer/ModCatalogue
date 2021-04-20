@@ -6,6 +6,8 @@ description: Pet description
 
 __\*<u>General Info:</u> You can actually name you pet however you like with /namepet \<CustomName\>\*__
 
+__\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this SteamGuide yet so here you go: [ClonePet](https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041)\*__
+
 # Catalogue of Pet & Food Model
 
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
