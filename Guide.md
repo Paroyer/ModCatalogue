@@ -7,10 +7,6 @@ description: Guide description
 
 ## GuideTest
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041](https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929](https://steamcommunity.com/sharedfiles/filedetails/?id=1878288929)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729](https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055](https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055)
