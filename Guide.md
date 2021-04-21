@@ -15,7 +15,7 @@ PlaceHolder: How To setup a Server Using CommandsMod [SomeLink](https://paroyer.
 
 ### Quick Class Showcase:
 
-<iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/?list=PLCR5qW4rGzEuQc2eJHGQoQbNSo3xKPw4U" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## QuickStartingGuide
 
