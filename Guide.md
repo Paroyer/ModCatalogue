@@ -3,21 +3,33 @@ layout: default
 title: Guide
 description: Guide description
 ---
-# Somethings
+# Guide Page
 
-## GuideTest
+PlaceHolder: How To Instal Mods [SomeLink](https://paroyer.github.io/ModCatalogue/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729](https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729)
+PlaceHolder: How To setup a Server Using CommandsMod [SomeLink](https://paroyer.github.io/ModCatalogue/)
+
+## Basic Specialization Info
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690](https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690)
+
+## QuickStartingGuide
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055](https://steamcommunity.com/sharedfiles/filedetails/?id=1870903055)
 
+## Face The Cube
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729](https://steamcommunity.com/sharedfiles/filedetails/?id=1873333729)
+
+## Do Things, Dont die!
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807](https://steamcommunity.com/sharedfiles/filedetails/?id=1871883807)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515](https://steamcommunity.com/sharedfiles/filedetails/?id=1865509515)
+## DarkMega's Ultimate CubeWorld Guide
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574](https://steamcommunity.com/sharedfiles/filedetails/?id=1871398574)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690](https://steamcommunity.com/sharedfiles/filedetails/?id=1871763690)
+## Advance Mouvement Guide
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
