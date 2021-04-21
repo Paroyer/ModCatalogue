@@ -13,6 +13,8 @@ As custom models are kind off a really soft "mod" they have a separate page then
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Plasma](https://github.com/ChrisMiuchiz/Plasma-Writeup) is pretty usefull too, may require a little bit more knowledge, but you can do way more then just modifying .cub
+
 ## Exemple
 
 [PokemonSprites](http://www.mediafire.com/file/51ftlcalp2qa2ut/Pokemon.zip/file)
