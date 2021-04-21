@@ -10,6 +10,8 @@ This is the list of all the known/relevant mods for cubeworld. They are listed a
 
 Sprites/Models "mods" are actually list on this page : [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
 
+Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
+
 **\[NEW\]** New mod will get this tag.
 
 _**_Concept Mod_**_ Just a subjective way to say those mods are not 100% polished, which mean you may run into more bugs then with other mods.
