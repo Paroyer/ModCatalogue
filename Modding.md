@@ -33,7 +33,7 @@ Since it's the official tool made by Picroma always usefull.
 
 Atm most of the Ressource I know for cubeworld are listed on this page: [InfoDump](https://paroyer.github.io/ModCatalogue/Info)
 
-I should eventually trim that Info page and add the relevant modding ressources here, and add links/description to the tools listed above.
+I should eventually trim that Info page, add the relevant modding ressources here, and also add links/description to the tools listed above.
 
 ## Comments:
 
