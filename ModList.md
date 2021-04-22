@@ -14,7 +14,7 @@ This is the list of all the known/relevant mods for cubeworld. They are listed a
 
 -Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+_________________
 
 **\[NEW\]** - New mod will get this tag.
 
@@ -22,9 +22,6 @@ _**_Concept Mod_**_ - Just a subjective way to say those mods are not 100% polis
 
 &#128945; - Mods with an asterix are those I consider noteworthy for some reasons.
 
-_________________
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # Mod List
 
 _________________
