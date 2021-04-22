@@ -6,7 +6,7 @@ description: BuildinMod description
 
 # BuildingMod
 
-Let you build stuff
+Let you build stuff with the blocks minecraft style
 
 ## Known Bugs and/or Conflict
 
@@ -29,6 +29,7 @@ Let you build stuff
 >Right Click - Place block.
 >
 >Middle Click - Copy block from environment. This is the primary method of switching blocks.
+>
 
 ## Media
 <!--START_SLIDESHOW-->
