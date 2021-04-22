@@ -5,11 +5,11 @@ description: Media description
 ---
 # Notable content creator
 
-&bull; [Youtube](https://paroyer.github.io/ModCatalogue/Youtube)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Youtube](https://paroyer.github.io/ModCatalogue/Youtube)
 
-&bull; [Twitch](https://paroyer.github.io/ModCatalogue/Twitch)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Twitch](https://paroyer.github.io/ModCatalogue/Twitch)
 
-&bull; [Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
 
 ## MediaTest
 
@@ -43,9 +43,9 @@ description: Media description
 
 Here's a Github Pages to gather twitter/twitch/youtube in one place, I liked the idea so I created a concept account to gather recent cubeworld media. It's not done yet still a lot of Streamer/Youtuber and such to add, but it's still usable atm.
 
-**Account Name:** CubeWorld
+&bull; **Account Name:** CubeWorld
 
-**Password:** CubeWorldAioFeed123
+&bull; **Password:** CubeWorldAioFeed123
 
 ## Comments:
 
