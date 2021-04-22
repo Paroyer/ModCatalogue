@@ -11,6 +11,16 @@ description: Media description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; [Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
 
+## AioFeed Test
+
+[https://aiofeed.com/feed](https://aiofeed.com/feed)
+
+Here's a Github Pages to gather twitter/twitch/youtube in one place, I liked the idea so I created a concept account to gather recent cubeworld media. It's not done yet still a lot of Streamer/Youtuber and such to add, but it's still usable atm.
+
+&bull; **Account Name:** CubeWorld
+
+&bull; **Password:** CubeWorldAioFeed123
+
 ## MediaTest
 
 <iframe width="560" height="315" style="width:100%" src="https://www.youtube.com/embed/?list=PLWy0Jf96bIqw9sCG-mPfAsVko9J9CCXsn" title="YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,16 +46,6 @@ description: Media description
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-## AioFeed Test
-
-[https://aiofeed.com/feed](https://aiofeed.com/feed)
-
-Here's a Github Pages to gather twitter/twitch/youtube in one place, I liked the idea so I created a concept account to gather recent cubeworld media. It's not done yet still a lot of Streamer/Youtuber and such to add, but it's still usable atm.
-
-&bull; **Account Name:** CubeWorld
-
-&bull; **Password:** CubeWorldAioFeed123
 
 ## Comments:
 
