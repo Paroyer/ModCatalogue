@@ -7,13 +7,13 @@ description: Custom Models description
 
 As custom models are kind off a really soft "mod" they have a separate page then the regular .dll/.cwmod. To modify .cub you can use CWME or MagicaVoxel + Vox2Cub, there's a lot of other tool for this but those are the main/best one
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [CWME](https://www.cwmods.com/downloads/info54-CWME-CubeWorldModelEditor.html)
+&bull; [CWME](https://www.cwmods.com/downloads/info54-CWME-CubeWorldModelEditor.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [MagicaVoxel](https://ephtracy.github.io/)
+&bull; [MagicaVoxel](https://ephtracy.github.io/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
+&bull; [Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&bull; [Plasma](https://github.com/ChrisMiuchiz/Plasma-Writeup) is pretty usefull too, may require a little bit more knowledge, but you can do way more then just modifying .cub
+&bull; [Plasma](https://github.com/ChrisMiuchiz/Plasma-Writeup) is pretty usefull too, may require a little bit more knowledge, but you can do way more then just modifying .cub
 
 ## Exemple
 
