@@ -37,6 +37,8 @@ PlaceHolder: How To setup a Server Using CommandsMod [SomeLink](https://paroyer.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
+<embed src="https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553" style="width:100%; height: 500px;">
+
 ## Comments:
 
 <script src="https://utteranc.es/client.js"
