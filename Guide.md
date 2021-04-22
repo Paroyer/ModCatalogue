@@ -9,6 +9,8 @@ description: Guide description
 
 &bull; PlaceHolder: How To setup a Server Using CommandsMod [SomeLink](https://paroyer.github.io/ModCatalogue/)
 
+&bull; PlaceHolder: Modding guide [SomeLink](https://paroyer.github.io/ModCatalogue/Modding)
+
 ## Basic Specialization Info
 
 Quick review of the base class/specialization
