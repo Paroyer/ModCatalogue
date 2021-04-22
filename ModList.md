@@ -8,11 +8,13 @@ description: List of most cubeworld mods
 
 This is the list of all the known/relevant mods for cubeworld. They are listed as their actual .dll name for convenience, that way you can look up if you have a mod in your /Mods folder that you dont know the source or what it does. It is worth mentioning that some .cwmod listed here have a .dll loader, that was usefull a couple days, but since the modloader have legacy support for .cwmod those .dll are deprecated (WeaponXP.dll / BrightNight.dll / BetterProgression.dll). Just delete them, keep the .cwmod and you wont get any error regarding the CWSDK version.
 
-Sprites/Models "mods" are actually list on this page : [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
+-Sprites/Models "mods" are actually list on this page : [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
 
-Dict modification for localization, Pet Name on Food and such are list on this page : [Dict Modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
+-Dict modification for localization, Pet Name on Food and such are list on this page : [Dict Modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
 
-Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
+-Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **\[NEW\]** New mod will get this tag.
 
