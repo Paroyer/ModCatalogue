@@ -7,17 +7,13 @@ description: Info description
 
 ## InfoDump
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma WriteUp](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWTesseract](https://github.com/CWTesseract)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract/LiveCubReload](https://github.com/CWTesseract/LiveCubReload)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geordan9 CubeWorldHackTool](https://github.com/Geordan9/CubeWorldHackTool)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract](https://github.com/CWTesseract)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/Geordan9/CubeWorldHackTool](https://github.com/Geordan9/CubeWorldHackTool)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://fearlessrevolution.com/viewtopic.php?p=104856#p104856](https://fearlessrevolution.com/viewtopic.php?p=104856#p104856)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geo Cheat Table](https://fearlessrevolution.com/viewtopic.php?p=104856#p104856)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[AndoWorldGenID](https://imgur.com/a/IN6lh2P)
 
@@ -27,9 +23,9 @@ description: Info description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Some artifacts fix pastebin, idk where i got](https://pastebin.com/dhZ9UyJ7)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/CWTesseract/CWTCore/.../Creature.h#L104-L148](https://github.com/CWTesseract/CWTCore/blob/master/include/CWTCore/cube/Creature.h#L104-L148)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff Struct from CWTCore](https://github.com/CWTesseract/CWTCore/blob/master/include/CWTCore/cube/Creature.h#L104-L148)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[https://github.com/ChrisMiuchiz/CWSDK/blob/master/cwmods/cube/Creature.cpp](https://github.com/ChrisMiuchiz/CWSDK/blob/master/cwmods/cube/Creature.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWSDK /cube/Creature.cpp](https://github.com/ChrisMiuchiz/CWSDK/blob/master/cube/Creature.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Humanova cw datamine demo materials](https://github.com/humanova/cw_datamine/blob/master/cw_demo/material/demo_materials.txt)
 
