@@ -86,7 +86,7 @@ _________________
 
 ***[NoGoldLoss.dll](https://paroyer.github.io/ModCatalogue/Mods/NoGoldLoss) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Remove gold loss.
 
-***[LiveCubReload.dll](https://paroyer.github.io/ModCatalogue/Mods/LiveCubeReload) , [Ando](https://github.com/Andoryuuta)*** : **Archived** Concept mod to reload .cub with out relaunching the game.
+***[LiveCubReload.dll](https://github.com/CWTesseract/LiveCubReload) , [Ando](https://github.com/Andoryuuta)*** : **Archived** Concept mod to reload .cub with out relaunching the game.
 
 ***[Win7Fix](https://github.com/CWTesseract/win7fix) , [Ando](https://github.com/Andoryuuta)*** : &#128945; If you want to play on Win7 it's a must have
 
