@@ -10,7 +10,9 @@ This is what you need to actually mod the game. That one goes next to the cubewo
   
 ## Side Note
 
-If you actually want to create a mod, you need to look at this: [CWSDK](https://github.com/ChrisMiuchiz/CWSDK)
+&bull; Legacy Mods compatibility since 26 february 2020
+
+&bull; If you actually want to create a mod, you need to look at this: [CWSDK](https://github.com/ChrisMiuchiz/CWSDK)
 
 ## Media
 
