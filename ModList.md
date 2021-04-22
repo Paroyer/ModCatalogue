@@ -10,7 +10,7 @@ This is the list of all the known/relevant mods for cubeworld. They are listed a
 
 Sprites/Models "mods" are actually list on this page : [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
 
-Should add a dict modification page for localization, Pet Name on Food and such
+Dict modification for localization, Pet Name on Food and such are list on this page : [Dict Modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
 
 Same for Reshade-Pack if ever there's more in the future. As there is only [Pikyso's Pack](https://paroyer.github.io/ModCatalogue/Mods/Reshade) so far it's still listed down here.
 
