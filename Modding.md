@@ -5,7 +5,7 @@ description: Modding description
 ---
 # Modding Guide
 
-Some description blablabla
+Some description bla bla bla.
 
 ## Modding Tutorial Video
 
@@ -27,9 +27,13 @@ CWME, Magicka Voxel, Vox2Cub, etc
 
 ### Plasma
 
-Since it's the official tool made by Picroma always usefull
+Since it's the official tool made by Picroma always usefull.
 
 ## Ressources
+
+Atm most of the Ressource I know for cubeworld are listed on this page: [InfoDump](https://paroyer.github.io/ModCatalogue/Info)
+
+I should eventually trim that Info page and add the relevant modding ressources here, and add links/description to the tools listed above.
 
 ## Comments:
 
