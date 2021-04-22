@@ -21,6 +21,16 @@ description: Alpha description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld network protocol packet structures](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[ItemEditor](https://www.cwmods.com/downloads/info446-ItemEditor.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CharacterEditor](https://www.cwmods.com/downloads/info84-CubeWorldCharacterEditor.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWRestart](https://www.cwmods.com/downloads/info124-CWSRestart-Restartyourserverautomat....html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[HollowModelMaker](https://www.cwmods.com/downloads/info235-Hollowmodels.Makeyourmodelshollow..html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[AlphaHollowModels](https://www.cwmods.com/downloads/info264-Hollowedmodels.html)
+
 ## Comments:
 
 <script src="https://utteranc.es/client.js"
