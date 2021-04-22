@@ -12,7 +12,7 @@ Sprites/Models "mods" are actually list on this page : [Custom Models](https://p
 
 Dict modification for localization, Pet Name on Food and such are list on this page : [Dict Modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
 
-Same for Reshade-Pack if ever there's more in the future. As there is only [Pikyso's Pack](https://paroyer.github.io/ModCatalogue/Mods/Reshade) so far it's still listed down here.
+Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
 
 **\[NEW\]** New mod will get this tag.
 
