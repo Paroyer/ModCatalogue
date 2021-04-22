@@ -57,7 +57,7 @@ description: Info description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Model ID Catalogue](https://imgur.com/a/Mu4zwl9)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff List](https://imgur.com/a/AGMqDAE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff/Debuff ID List](https://imgur.com/a/AGMqDAE)
 
 _________________
 
