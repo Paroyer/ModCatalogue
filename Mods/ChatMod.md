@@ -6,7 +6,7 @@ description: ChatMod description
 
 # ChatMod 
 
-Although Cube World has a chat box, chat is not implemented into multiplayer, as you will be the only one who can see your messages. This mod implements chat into multiplayer.
+>Although Cube World has a chat box, chat is not implemented into multiplayer, as you will be the only one who can see your messages. This mod implements chat into multiplayer.
 
 ## Known Bugs and/or Conflict
 
@@ -30,7 +30,7 @@ Although Cube World has a chat box, chat is not implemented into multiplayer, as
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png?token=ANK6PU2HDBHVTB3QIKDL4M3APYNJW" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png?token=ANK6PUZMB6MTTEMUFZCFHY3ARNDNC" style="width:90%">
   </div>
   <div class="text"><!--Nothing--></div>
 </div>
