@@ -6,7 +6,7 @@ description: BrightNight description
 
 # BrightNight
 
-Stops nights from becoming pitch black, time 20:40 is the darkest it'll ever get
+>Stops nights from becoming pitch black, time 20:40 is the darkest it'll ever get
 
 ## Known Bugs and/or Conflict
 
