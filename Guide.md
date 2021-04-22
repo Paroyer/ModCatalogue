@@ -5,11 +5,11 @@ description: Guide description
 ---
 # Guide Page
 
-&bull; PlaceHolder: How To Instal Mods [SomeLink](https://paroyer.github.io/ModCatalogue/)
+&bull; PlaceHolder: How to instal Mods [SomeLink](https://paroyer.github.io/ModCatalogue/)
 
-&bull; PlaceHolder: How To setup a Server Using CommandsMod [SomeLink](https://paroyer.github.io/ModCatalogue/)
+&bull; PlaceHolder: How to setup a Server Using CommandsMod [SomeLink](https://paroyer.github.io/ModCatalogue/)
 
-&bull; PlaceHolder: Modding guide [SomeLink](https://paroyer.github.io/ModCatalogue/Modding)
+&bull; PlaceHolder: How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
 
 ## Basic Specialization Info
 
