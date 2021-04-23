@@ -23,6 +23,10 @@ As custom models are kind off a really soft "mod" they have a separate page then
 
 [PokemonSprites](http://www.mediafire.com/file/51ftlcalp2qa2ut/Pokemon.zip/file)
 
+Should add the community pack eventually
+
+Also the non-existent weapon/armor fix
+
 &bull; I May do standalone page for each one of them at some point, if there's enough so that is a minimum relevant. We'll see
 
 ## Comments:
