@@ -3,9 +3,9 @@ layout: default
 title: Mod List
 description: List of most cubeworld mods
 ---
-__\*<u>General Info:</u> Some people seem to experience "crash" after installing some mods, this Redist was able to fix it for some : 
+__\*<u>General Info:</u> Some people seem to experience "crash" after installing some mods, this Redist was able to fix it for some : \*__
 
-[vc_redist ](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads)\*__
+[vc_redist ](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Introduction
 
