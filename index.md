@@ -15,7 +15,7 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
 
-### -SubMenuTest [How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModIdea](https://paroyer.github.io/ModCatalogue/Idea)
 
