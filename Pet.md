@@ -16,9 +16,6 @@ __\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this Stea
 <embed src="https://i.imgur.com/Av8HjOF.png" style="width:100%;">
 </div>
 
-_________________ 
-
-&bull; Imma redo that list soon, so it's in the same order as the bottom list to make it easier to navigate into. Someday when imma have time to check js I may include the picture directly in the Pet-List.
 
 ## Pet-List Embed Test
 
