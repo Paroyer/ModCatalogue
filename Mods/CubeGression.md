@@ -31,7 +31,7 @@ Artifacts give combat boosts
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/Cubegression.png?token=ANK6PU7QDFAMG5Q3B7Y42B3AQIVL4" style="width:90%">
+  <img src="https://i.imgur.com/IkaT5NO.png" style="width:90%">
   </div>
   <div class="text"><u>New Stats</u></div>
 </div>
