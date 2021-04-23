@@ -66,6 +66,8 @@ Well as the name imply it is a more advance guide regarding how to move efficien
 
 &bull; [Advanced Movement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Comments:
 
 <script src="https://utteranc.es/client.js"
