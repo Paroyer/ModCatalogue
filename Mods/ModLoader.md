@@ -22,21 +22,21 @@ This is what you need to actually mod the game. That one goes next to the cubewo
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/FolderStruct.png?token=ANK6PUYZZRWHKIOBANHCH5TAQISPM" style="width:90%">
+  <img src="https://i.imgur.com/Mxf7nVF.png" style="width:90%">
   </div>
   <div class="text"><u><!--Nothing--></u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/RunWithMods.png?token=ANK6PU23XY375LQZIW2BCWTAQISMK" style="width:90%">
+  <img src="https://i.imgur.com/Q7fWBku.png" style="width:90%">
   </div>
   <div class="text"><u><!--Nothing--></u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/LoadedEx.png?token=ANK6PUYG6DRWZUMMVF5KVJDAQISQ6" style="width:90%">
+  <img src="https://i.imgur.com/jhRbWXv.png" style="width:90%">
   </div>
   <div class="text"><u><!--Nothing--></u></div>
 </div>
