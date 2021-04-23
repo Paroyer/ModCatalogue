@@ -34,14 +34,14 @@ Just put the .cwmod inside the /Mods folder and it automaticaly apply, there's n
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/Before.png?token=ANK6PU47DVAZFK2PVH2JZQLAQIVCG" style="width:90%">
+  <img src="https://i.imgur.com/TKknDq4.png" style="width:90%">
   </div>
   <div class="text"><u>Before</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/After.png?token=ANK6PU6D5HDP2NZICJATUH3AQIVCC" style="width:90%">
+  <img src="https://i.imgur.com/VAawbhm.png" style="width:90%">
   </div>
   <div class="text"><u>After</u></div>
 </div>
