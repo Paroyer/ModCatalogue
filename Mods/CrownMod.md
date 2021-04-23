@@ -10,6 +10,7 @@ Let you wear a crown
 
 ## Known Bugs and/or Conflict
 
+&bull; The crown model may be a little off center compare to your head model, that's pseudo normal, but usually some ID are decent no matter which head model you have.
 
 ## Compatibility Table
   
