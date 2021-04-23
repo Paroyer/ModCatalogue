@@ -13,6 +13,8 @@ Place Holder: [Steam Localization Thread](https://steamcommunity.com/app/1128000
 
 Place Holder: [Pet Name on Food](https://www.reddit.com/r/CubeWorld/comments/dbrji5/little_language_file_edit_for_helping_you_taming/)
 
+Place Holder: [French Localization](https://github.com/Ghomerr/cubeworld_fr)
+
 Exemple:
 
   <div align="center">
