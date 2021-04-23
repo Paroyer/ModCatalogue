@@ -31,14 +31,14 @@ Fix guardian hp boost, +25% instead of +25 flat hp
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/GuardianVanillaHp.png?token=ANK6PUYJPXTEGRIXPFYQN5TAQIVGY" style="width:90%">
+  <img src="https://i.imgur.com/hfxbnlZ.png" style="width:90%">
   </div>
   <div class="text"><u>Vanilla</u></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/GuardianHpNoGear.png?token=ANK6PUZXWOICC47NOXNBNNDAQIVGO" style="width:90%">
+  <img src="https://i.imgur.com/0lXCaF8.png" style="width:90%">
   </div>
   <div class="text"><u>With Fix</u></div>
 </div>
