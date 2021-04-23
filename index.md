@@ -15,6 +15,14 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Mods](https://paroyer.github.io/ModCatalogue/ModList)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Dict modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Reshade-Pack](https://paroyer.github.io/ModCatalogue/Mods/Reshade)
+
 ## &nbsp;&nbsp;&nbsp;&bull; [ModIdea](https://paroyer.github.io/ModCatalogue/Idea)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Modding](https://paroyer.github.io/ModCatalogue/Modding)
