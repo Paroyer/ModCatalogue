@@ -6,7 +6,7 @@ description: ChangeSpecializationMod description
 
 # ChangeSpecializationMod 
 
-Let you change specialization via a chat command,
+Let you change class or specialization via a chat command,
 
 >### Commands:
 >
