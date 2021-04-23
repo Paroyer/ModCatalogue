@@ -11,7 +11,7 @@ I personally recommend creating a /Mods and /InactiveMods folder and just copy/p
 
 0-Locate cubeworld folder, default path: C:\Program Files (x86)\Steam\steamapps\common\Cube World
 
-1-Download ModLoader, drag and drop next to cubeworld.exe
+1-Download [CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader), drag and drop next to cubeworld.exe
 
 2-Create a /Mods folder
 
