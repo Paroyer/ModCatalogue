@@ -19,6 +19,18 @@ I personally recommend creating a /Mods and /InactiveMods folder and just copy/p
 
 4-Launch cubeworld.exe, select if you want to play with Mods or no, then a message will appear and confirm you which mods are loaded
 
+  <div align="center">
+  <img src="https://i.imgur.com/Mxf7nVF.png" style="width:90%">
+  </div>
+  
+  <div align="center">
+  <img src="https://i.imgur.com/Q7fWBku.png" style="width:90%">
+  </div>
+  
+  <div align="center">
+  <img src="https://i.imgur.com/jhRbWXv.png" style="width:90%">
+  </div>
+
 
 >You may need the unpacked cubeworld.exe, if ever some mods dont launch, but somepeople report they always used the default cubeworld.exe
 >
