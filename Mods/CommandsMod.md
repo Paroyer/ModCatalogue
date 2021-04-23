@@ -145,28 +145,28 @@ description: CommandsMod description
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help1.png?token=ANK6PU2YCM4PGZVCB3GKV4TAQIU2I" style="width:90%">
+  <img src="https://i.imgur.com/rCt9sNe.png" style="width:90%">
   </div>
   <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help2.png?token=ANK6PU7LH634XVEBR6JQCDDAQIU2O" style="width:90%">
+  <img src="https://i.imgur.com/WXk4t25.png" style="width:90%">
   </div>
   <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help3.png?token=ANK6PU3XFZNMQ2GFYV2ZCVTAQIU2W" style="width:90%">
+  <img src="https://i.imgur.com/WpHmNoS.png" style="width:90%">
   </div>
   <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/help4.png?token=ANK6PUZ2VGXZ2WIORXI2JL3AQIU3A" style="width:90%">
+  <img src="https://i.imgur.com/ixWi98q.png" style="width:90%">
   </div>
   <div class="text"></div>
 </div>
