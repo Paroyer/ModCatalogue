@@ -41,7 +41,7 @@ Adds too much stuff to list atm, just check the original author repo listed bell
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/WIP.png?token=ANK6PUZKU2WVS74GBB4VYPDARNH7W" style="width:90%">
+  <img src="https://i.imgur.com/QIXLgr2.png" style="width:90%">
   </div>
   <div class="text" style="color:red;"><u><b>Quest[WIP]</b></u></div>
 </div>
