@@ -11,7 +11,7 @@ The goal of this shitty page is to eventually list the available mods and such f
 
 Should be the eventual Table of Content
 
-&nbsp;&nbsp;&nbsp; ## &bull; [Home](https://paroyer.github.io/ModCatalogue/)
+## &nbsp;&nbsp;&nbsp;&bull; [Home](https://paroyer.github.io/ModCatalogue/)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
 
