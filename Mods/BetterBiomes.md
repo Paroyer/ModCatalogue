@@ -6,7 +6,13 @@ description: BetterBiomes description
 
 # BetterBiomes
 
-A terrain generation mod for CubeWorld.
+>A terrain generation mod for CubeWorld.
+>
+>## Better What?
+>
+> This mod seeks to make exploring the game's world more interesting by grouping regions into continents and small islands.
+> 
+> Gone are the days of infinite sprawling land mazes. Have a look for yourself!
 
 ## Known Bugs and/or Conflict
 
