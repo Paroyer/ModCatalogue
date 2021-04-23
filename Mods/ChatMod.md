@@ -30,7 +30,7 @@ description: ChatMod description
  
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/chat.png?token=ANK6PUZMB6MTTEMUFZCFHY3ARNDNC" style="width:90%">
+  <img src="https://i.imgur.com/Y0msdai.png" style="width:90%">
   </div>
   <div class="text"><!--Nothing--></div>
 </div>
