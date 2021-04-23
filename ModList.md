@@ -5,7 +5,7 @@ description: List of most cubeworld mods
 ---
 **<u>General Info:</u> Some people seem to experience "crash" after installing some mods, this Redist was able to fix it for some :**
 
-[vc_redist ](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads)
+&bull; [vc_redist ](https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Introduction
 
