@@ -24,11 +24,11 @@ I personally recommend creating a /Mods and /InactiveMods folder and just copy/p
   </div>
   
   <div align="center">
-  <img src="https://i.imgur.com/Q7fWBku.png" style="width:90%">
+  <img src="https://i.imgur.com/Q7fWBku.png" style="width:50%">
   </div>
   
   <div align="center">
-  <img src="https://i.imgur.com/jhRbWXv.png" style="width:90%">
+  <img src="https://i.imgur.com/jhRbWXv.png" style="width:50%">
   </div>
 
 
