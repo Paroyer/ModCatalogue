@@ -31,7 +31,7 @@ Sincerly I dont know what that one do exactly, all i know is that it may be usef
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/LocalizationMod.png?token=ANK6PU6754YZ6AKLIDTKUWTAQIP74" style="width:90%">
+  <img src="https://i.imgur.com/hCkQ9mO.png" style="width:90%">
   </div>
   <div class="text"><!--Nothing--></div>
 </div>
