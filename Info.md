@@ -19,8 +19,6 @@ description: Info description
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[AndoSpriteIDMap](https://github.com/CWTesseract/LiveCubReload/blob/master/LiveCubReload/include/SpriteIDMap.h)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[French Localization](https://github.com/Ghomerr/cubeworld_fr)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Some artifacts fix pastebin, idk where i got](https://pastebin.com/dhZ9UyJ7)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff Struct from CWTCore](https://github.com/CWTesseract/CWTCore/blob/master/include/CWTCore/cube/Creature.h#L104-L148)
