@@ -15,8 +15,6 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
-
 ## &nbsp;&nbsp;&nbsp;&bull; [ModIdea](https://paroyer.github.io/ModCatalogue/Idea)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Modding](https://paroyer.github.io/ModCatalogue/Modding)
@@ -24,6 +22,14 @@ Should be the eventual Table of Content
 ## &nbsp;&nbsp;&nbsp;&bull; [Pet](https://paroyer.github.io/ModCatalogue/Pet)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Guide](https://paroyer.github.io/ModCatalogue/Guide)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [General Guide](https://paroyer.github.io/ModCatalogue/Guide)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Create a Serv with CommandsMod](https://paroyer.github.io/ModCatalogue/)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Create Mods](https://paroyer.github.io/ModCatalogue/Modding)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
 
