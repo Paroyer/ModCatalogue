@@ -8,7 +8,11 @@ description: ChangeSpecializationMod description
 
 Let you turn on map icon/tag/all via a chat command,
 
-/map <ico\|tag\|all> <0\|1>
+>### Commands:
+>
+>```
+>/map <ico|tag|all> <0|1>
+>```
 
 ## Known Bugs and/or Conflict
 
