@@ -17,12 +17,12 @@ I personally recommend creating a /Mods and /InactiveMods folder and just copy/p
 
 3-Drop mod .dll/.cwmod inside /Mods
 
-4-Launch .exe, select if you want to play with Mods or no, then a message will appear and confirm you which mods are loaded
+4-Launch cubeworld.exe, select if you want to play with Mods or no, then a message will appear and confirm you which mods are loaded
 
 
->You may need the unpacked exe if ever some mods dont launch, but somepeople report they always used the default .exe. 
+>You may need the unpacked cubeworld.exe, if ever some mods dont launch, but somepeople report they always used the default cubeworld.exe. 
 >
->Just look at steamless documentation or grab that one : [Unpacked cubeworld.exe](https://cdn.discordapp.com/attachments/329294754846343168/834495644994895872/cubeworld.exe)
+>Just look at steamless documentation, or grab that one : [Unpacked cubeworld.exe](https://cdn.discordapp.com/attachments/329294754846343168/834495644994895872/cubeworld.exe)
 >
 >I personally recommend to rename your actual cubeworld.exe to cubeworld--packed.exe or what not, just in case.
 
