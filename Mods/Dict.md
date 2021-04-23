@@ -11,9 +11,9 @@ This will eventually become the Dict Mod page
 
 Place Holder: [Steam Localization Thread](https://steamcommunity.com/app/1128000/discussions/0/1628539187771914899/)
 
-Place Holder: [Pet Name on Food](https://www.reddit.com/r/CubeWorld/comments/dbrji5/little_language_file_edit_for_helping_you_taming/)
-
 Place Holder: [French Localization](https://github.com/Ghomerr/cubeworld_fr)
+
+Place Holder: [Pet Name on Food](https://www.reddit.com/r/CubeWorld/comments/dbrji5/little_language_file_edit_for_helping_you_taming/)
 
 Exemple:
 
