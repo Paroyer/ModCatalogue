@@ -33,7 +33,7 @@ Bypass carry limits
   <div align="center">
   <img src="https://i.imgur.com/cmRhc6z.png" style="width:90%">
   </div>
-  <div class="text"></div>
+  <div class="text"><!--Nothing--></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
