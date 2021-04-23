@@ -25,7 +25,7 @@ description: BrightNight description
   
 ## Side Note
 
-Just put the .cwmod inside the /Mods folder and it automaticaly apply, there's now command/config.
+Just put the .cwmod inside the /Mods folder and it automaticaly apply, there's no command/config.
 
 ## Media
 <!--START_SLIDESHOW-->
