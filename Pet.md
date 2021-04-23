@@ -13,7 +13,7 @@ __\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this Stea
 [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
 <div style="height:500px;width:100%;overflow:scroll;overflow-x: hidden;">
-<embed src="https://i.imgur.com/Av8HjOF.png" style="width:100%;">
+<embed src="https://i.imgur.com/ZQOpcSP.png" style="width:100%;">
 </div>
 
 
