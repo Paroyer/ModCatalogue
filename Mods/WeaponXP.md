@@ -25,6 +25,8 @@ Add a xp hook to hit number, and change weapon rarity based on level
   
 ## Side Note
 
+As a concept mod, you may encounter a lot of bugs. I didnt list them yet, if you know how to trigger some bug just leave a comment below 👌
+
 ## Media
 <!--START_SLIDESHOW-->
 <body>
