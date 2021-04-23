@@ -6,7 +6,7 @@ description: CubeMegaMod description
 
 # CubeMegaMod 
 
-Adds too much stuff to list atm
+Adds too much stuff to list atm, just check the original author repo listed bellow.
 
 ## Known Bugs and/or Conflict
 
@@ -41,7 +41,7 @@ Adds too much stuff to list atm
 
 <div class="mySlides fade">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/WIP.png?token=ANK6PUYXKVSNH446N3BKL2LAPZABI" style="width:90%">
+  <img src="https://raw.githubusercontent.com/Paroyer/ModCatalogue/gh-pages/assets/images/Mods/WIP.png?token=ANK6PUZKU2WVS74GBB4VYPDARNH7W" style="width:90%">
   </div>
   <div class="text" style="color:red;"><u><b>Quest[WIP]</b></u></div>
 </div>
