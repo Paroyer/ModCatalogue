@@ -10,7 +10,11 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
 
 ## Known Bugs and/or Conflict
 
-&bull; Artifacts are shown multiple time in the top left bar
+&bull; Artifacts are shown multiple time in the top left bar.
+
+&bull; Dont forget to /setcenter or ennemie scalling will be weird.
+
+&bull; Cant use 2 char with the same name or you will get the previous one /setcenter.
 
 ## Compatibility Table
   
@@ -27,6 +31,8 @@ A Cube World mod adding item/enemy scaling, useful artifact stats, modified item
 ## Side Note
 
 &bull; Be carefull on the Repo link, the latest version shown on the right side is 1.0. Actually it's 1.02, check all Release to be sure and even tho it says to use Frognik modloader don't.
+
+&bull; You can always edit/delete the /setcenter value for each of your char via the modcfg.txt inside the main Cube World folder.
 
 ## Media
 <!--START_SLIDESHOW-->
