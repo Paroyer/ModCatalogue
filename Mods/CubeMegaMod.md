@@ -10,6 +10,7 @@ Adds too much stuff to list atm, just check the original author repo listed bell
 
 ## Known Bugs and/or Conflict
 
+&bull; \[To Confirm\] Some report of crashes when playing in multiplayer with 1.5.4, disabling WeaponUpgrade Mod would possibly fix it.
 
 ## Compatibility Table
   
