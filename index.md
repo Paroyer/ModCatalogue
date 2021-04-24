@@ -15,13 +15,13 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Mods](https://paroyer.github.io/ModCatalogue/ModList)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Mods](https://paroyer.github.io/ModCatalogue/ModList)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Dict modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Dict modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Custom Models](https://paroyer.github.io/ModCatalogue/Mods/Models)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [Reshade-Pack](https://paroyer.github.io/ModCatalogue/Mods/Reshade)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Reshade-Pack](https://paroyer.github.io/ModCatalogue/Mods/Reshade)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModIdea](https://paroyer.github.io/ModCatalogue/Idea)
 
@@ -31,13 +31,13 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Guide](https://paroyer.github.io/ModCatalogue/Guide)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [General Guide](https://paroyer.github.io/ModCatalogue/Guide)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[General Guide](https://paroyer.github.io/ModCatalogue/Guide)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Create a Serv with CommandsMod](https://paroyer.github.io/ModCatalogue/)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create a Serv with CommandsMod](https://paroyer.github.io/ModCatalogue/)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -SubMenuTest [How To Create Mods](https://paroyer.github.io/ModCatalogue/Modding)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create Mods](https://paroyer.github.io/ModCatalogue/Modding)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
 
