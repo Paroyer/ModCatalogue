@@ -7,7 +7,7 @@ description: Modding description
 
 Some description bla bla bla.
 
-I should eventually trim that ModdingInfo page add the relevant modding ressources, and also add links/description to the tools listed above.
+I should eventually trim that ModdingInfo page add the relevant modding ressources, and also add links/description to the tools listed below.
 
 ## Modding Tutorial Video
 
