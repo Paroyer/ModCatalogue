@@ -29,7 +29,11 @@ There's a free version, but as anything on internet you're just a couple google 
 
 -[Ghidra](https://ghidra-sre.org/)
 
-A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
+
+-[Cutter](https://cutter.re/)
+
+Free and Open Source RE Platform.
 
 ### Debuggers
 
@@ -38,6 +42,10 @@ Cheat Engine, Reclass.net , StackWalker and such
 -[Cheat Engine](https://www.cheatengine.org/)
 
 -[Reclass.Net](https://github.com/ReClassNET/ReClass.NET)
+
+-[Squalr](https://github.com/Squalr/Squalr)
+
+-[x64DBG](https://x64dbg.com/#start)
 
 -[LukeStackWalker](http://lukestackwalker.sourceforge.net/)
 
