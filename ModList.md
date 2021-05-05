@@ -35,6 +35,8 @@ _________________
 
 ***[CubeModLoader.fip](https://paroyer.github.io/ModCatalogue/Mods/ModLoader) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : &#128945; What you actually need to mod the game. That one goes next to the cubeworld.exe and you create a /Mods folder where you put all the other .dll or .cwmod
 
+***[Win7Fix](https://github.com/CWTesseract/win7fix) , [Ando](https://github.com/Andoryuuta)*** : &#128945; If you want to play on Win7 it's a must have
+
 ***[BuildingMod.dll](https://paroyer.github.io/ModCatalogue/Mods/BuildingMod) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : &#128945; One of the best mods out there, it lets you build in cubeworld pretty straight forward
 
 ***[ChatMod.dll](https://paroyer.github.io/ModCatalogue/Mods/ChatMod) , [ChrisMiuchiz](https://github.com/ChrisMiuchiz)*** : &#128945; Again one of the best mods, fix the chat actually not working in multiplayer
@@ -93,8 +95,6 @@ _________________
 ***[NoGoldLoss.dll](https://paroyer.github.io/ModCatalogue/Mods/NoGoldLoss) , [Nichiren](https://github.com/thetrueoneshots)*** : _**_Concept Mod_**_ Remove gold loss.
 
 ***[LiveCubReload.dll](https://github.com/CWTesseract/LiveCubReload) , [Ando](https://github.com/Andoryuuta)*** : **Archived** Concept mod to reload .cub with out relaunching the game.
-
-***[Win7Fix](https://github.com/CWTesseract/win7fix) , [Ando](https://github.com/Andoryuuta)*** : &#128945; If you want to play on Win7 it's a must have
 
 _________________
 
