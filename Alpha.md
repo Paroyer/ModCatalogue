@@ -7,7 +7,7 @@ description: Alpha description
 
 If you need some info for the Alpha version, you can still look the cubeworld.fandom just look at the history (accessible on top of the page) and be sure you're checking the page version before October 2019. Up to the 29 september 2019 version it's alpha content, after this from the 1 October 2019 it's Release information.
 
--[Wiki Rev.29Sept2019](https://cubeworld.fandom.com/wiki/Cube_World_Wiki?oldid=12597)
+- [Wiki Rev.29Sept2019](https://cubeworld.fandom.com/wiki/Cube_World_Wiki?oldid=12597)
 
 ## AlphaTest
 
