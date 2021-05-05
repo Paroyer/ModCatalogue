@@ -3,10 +3,9 @@ layout: default
 title: Guide
 description: Guide description
 ---
+# Guide Page
 
 __\*<u>Wiki:</u> [Official Release Wiki](https://cubeworld.fandom.com/wiki/Cube_World_Wiki)\*__
-
-# Guide Page
 
 &bull; How to install Mods [Mods Installation](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
