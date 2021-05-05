@@ -55,15 +55,15 @@ CWME, Magicka Voxel, Vox2Cub, etc.
 
 Since it's the official tool made by Picroma always usefull and kinda the only/best way to acces .plx files. Note that you actually need to rename the .plx files from the release/alpha to .plg to open them with Plasma.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma WriteUp](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
+-[Plasma WriteUp](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Picroma-Plasma](https://archive.org/details/picroma-plasma)
+-[Picroma-Plasma](https://archive.org/details/picroma-plasma)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma-Tweaks by Chris](https://github.com/ChrisMiuchiz/Plasma-Tweaks)
+-[Plasma-Tweaks by Chris](https://github.com/ChrisMiuchiz/Plasma-Tweaks)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Official Picroma Showcase Videos](https://www.youtube.com/user/Picroma/videos)
+-[Official Picroma Showcase Videos](https://www.youtube.com/user/Picroma/videos)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[User Manual](https://web.archive.org/web/20111118222851/https://www.picroma.com/Plasma/Manual)
+-[Plasma User Manual](https://web.archive.org/web/20111118222851/https://www.picroma.com/Plasma/Manual)
 
 ## Ressources
 
