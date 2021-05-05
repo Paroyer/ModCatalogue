@@ -3,23 +3,43 @@ layout: default
 title: Alpha
 description: Alpha description
 ---
-# Somethings
+# Wiki
+
+If you need some info for the Alpha version, you can still look the cubeworld.fandom just look at the history (accessible on top of the page) and be sure you're checking the page version before October 2019. Up to the 29 september 2019 version it's alpha content, after this from the 1 October 2019 it's Release information.
+
+-[Wiki Rev.29Sept2019](https://cubeworld.fandom.com/wiki/Cube_World_Wiki?oldid=12597)
 
 ## AlphaTest
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha ''crash'' Info](https://www.reddit.com/r/CubeWorld/comments/ishcyx/ive_got_the_original_alpha_from_the_old_picroma/g581mge/)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Archive.org Fresh Alpha Files](https://archive.org/details/CubeWorldAlpha)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Archive.org Some Alpha Files ver3](https://archive.org/details/CubeWorldAplha3)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Archive.org Some Random Alpha Files ver3](https://archive.org/details/CubeWorldAplha3)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[GDrive Alpha Files, idk where i got](https://drive.google.com/file/d/0Bz9AMQY2JNRuU3BubU1HbGRLckk/view)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Essential Modpack](https://www.reddit.com/r/CubeWorld/comments/bjya12/cube_world_essentials_modpack/)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Cheat Table](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Mitten](https://github.com/ChrisMiuchiz/Mitten)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorldServerRunner](https://github.com/Matriz88/CubeWorldServerRunner)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld-ESP](https://github.com/humanova/CubeWorld-ESP)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld network protocol packet structures](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
+
+&bull; cuwo
+
+Server management utilitie
+
+[cuwo](https://github.com/matpow2/cuwo)
+
+[Scripts](https://github.com/matpow2/cuwo-scripts)
+
+&bull; cwmods.com
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[ItemEditor](https://www.cwmods.com/downloads/info446-ItemEditor.html)
 
