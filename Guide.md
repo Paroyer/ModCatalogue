@@ -7,7 +7,7 @@ description: Guide description
 
 &bull; PlaceHolder: How to install Mods [Mods Installation](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
-&bull; PlaceHolder: How to setup a Server Using CommandsMod [SomeLink](https://paroyer.github.io/ModCatalogue/)
+&bull; PlaceHolder: How to setup a Server Using CommandsMod [Server Setup](https://paroyer.github.io/ModCatalogue/Server)
 
 &bull; PlaceHolder: How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
 
