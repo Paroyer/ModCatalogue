@@ -21,23 +21,26 @@ Some relevant modding general introduction by someone more skilled then myself c
 
 ### Decompilers
 
-IDA, ghidra and such. Some day I may do a separate page for them with usefull tutorial/information and what not
+IDA, ghidra and such. Some day I may do a separate page for them with usefull tutorial/information and what not.
 
 -[IDA Official Website](https://www.hex-rays.com/)
 
 There's a free version, but as anything on internet you're just a couple google search away from a working Pro version.
 
+>A powerful disassembler and a versatile debugger.
+
 -[Ghidra](https://ghidra-sre.org/)
 
-A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
+>A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission.
 
 -[Cutter](https://cutter.re/)
 
-Free and Open Source RE Platform.
+>Free and Open Source RE Platform.
+
 
 ### Debuggers
 
-Cheat Engine, Reclass.net , StackWalker and such
+Cheat Engine, Reclass.net, x64DBG, StackWalker and such. Idem some day I may do a separate page for them with usefull tutorial/information and what not.
 
 -[Cheat Engine](https://www.cheatengine.org/)
 
@@ -49,19 +52,10 @@ Cheat Engine, Reclass.net , StackWalker and such
 
 -[LukeStackWalker](http://lukestackwalker.sourceforge.net/)
 
-### Model editors
-
-CWME, Magicka Voxel, Vox2Cub, etc. 
-
--[CWME](https://www.cwmods.com/downloads/info54-CWME-CubeWorldModelEditor.html)
-
--[MagickaVoxel](https://ephtracy.github.io/)
-
--[Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
 
 ### Plasma
 
-Since it's the official tool made by Picroma always usefull and kinda the only/best way to acces .plx files. Note that you actually need to rename the .plx files from the release/alpha to .plg to open them with Plasma.
+Since it's the official tool made by Picroma always usefull and kinda the only/best way to acces .plx files. Note that you actually need to rename the .plx files from the release/alpha to .plg to open them with Plasma. Again Idem for Plasma, it will get a dedicated page eventually.
 
 -[Plasma WriteUp](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
 
@@ -72,6 +66,17 @@ Since it's the official tool made by Picroma always usefull and kinda the only/b
 -[Official Picroma Showcase Videos](https://www.youtube.com/user/Picroma/videos)
 
 -[Plasma User Manual](https://web.archive.org/web/20111118222851/https://www.picroma.com/Plasma/Manual)
+
+### Model editors
+
+CWME, Magicka Voxel, Vox2Cub, etc. 
+
+-[CWME](https://www.cwmods.com/downloads/info54-CWME-CubeWorldModelEditor.html)
+
+-[MagickaVoxel](https://ephtracy.github.io/)
+
+-[Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
+
 
 ## Ressources
 
