@@ -3,13 +3,16 @@ layout: default
 title: Guide
 description: Guide description
 ---
+
+__\*<u>Wiki:</u> [Official Release Wiki](https://cubeworld.fandom.com/wiki/Cube_World_Wiki)\*__
+
 # Guide Page
 
-&bull; PlaceHolder: How to install Mods [Mods Installation](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
+&bull; How to install Mods [Mods Installation](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
-&bull; PlaceHolder: How to setup a Server Using CommandsMod [Server Setup](https://paroyer.github.io/ModCatalogue/Server)
+&bull; How to setup a Server Using CommandsMod [Server Setup](https://paroyer.github.io/ModCatalogue/Server)
 
-&bull; PlaceHolder: How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
+&bull; How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
 
 ## Basic Specialization Info
 
