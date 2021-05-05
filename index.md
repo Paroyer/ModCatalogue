@@ -35,7 +35,7 @@ Should be the eventual Table of Content
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Install Mods](https://paroyer.github.io/ModCatalogue/Mods/InstallMods)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create a Serv with CommandsMod](https://paroyer.github.io/ModCatalogue/)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create a Serv with CommandsMod](https://paroyer.github.io/ModCatalogue/Server)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create Mods](https://paroyer.github.io/ModCatalogue/Modding)
 
