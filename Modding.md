@@ -5,9 +5,7 @@ description: Modding description
 ---
 # Modding Guide
 
-Some description bla bla bla.
-
-I should eventually trim that ModdingInfo page add the relevant modding ressources, and also add links/description to the tools listed below.
+Some relevant modding general introduction by someone more skilled then myself could be pretty pogger, we'll see.
 
 ## Modding Tutorial Video
 
@@ -23,39 +21,67 @@ I should eventually trim that ModdingInfo page add the relevant modding ressourc
 
 ### Decompilers
 
-IDA, ghidra and such
+IDA, ghidra and such. Some day I may do a separate page for them with usefull tutorial/information and what not
+
+-[IDA Official Website](https://www.hex-rays.com/)
+
+There's a free version, but as anything on internet you're just a couple google search away from a working Pro version.
+
+-[Ghidra](https://ghidra-sre.org/)
+
+A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
 
 ### Debuggers
 
-Cheat Engine, Reclass.net
+Cheat Engine, Reclass.net , StackWalker and such
+
+-[Cheat Engine](https://www.cheatengine.org/)
+
+-[Reclass.Net](https://github.com/ReClassNET/ReClass.NET)
+
+-[LukeStackWalker](http://lukestackwalker.sourceforge.net/)
 
 ### Model editors
 
-CWME, Magicka Voxel, Vox2Cub, etc
+CWME, Magicka Voxel, Vox2Cub, etc. 
+
+-[CWME](https://www.cwmods.com/downloads/info54-CWME-CubeWorldModelEditor.html)
+
+-[MagickaVoxel](https://ephtracy.github.io/)
+
+-[Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
 
 ### Plasma
 
-Since it's the official tool made by Picroma always usefull.
-
-## Ressources
+Since it's the official tool made by Picroma always usefull and kinda the only/best way to acces .plx files. Note that you actually need to rename the .plx files from the release/alpha to .plg to open them with Plasma.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma WriteUp](https://github.com/ChrisMiuchiz/Plasma-Writeup) 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Picroma-Plasma](https://archive.org/details/picroma-plasma)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma-Tweaks by Chris](https://github.com/ChrisMiuchiz/Plasma-Tweaks)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Official Picroma Showcase Videos](https://www.youtube.com/user/Picroma/videos)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[User Manual](https://web.archive.org/web/20111118222851/https://www.picroma.com/Plasma/Manual)
+
+## Ressources
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWTesseract](https://github.com/CWTesseract)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geordan9 CubeWorldHackTool](https://github.com/Geordan9/CubeWorldHackTool)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geo Cheat Table](https://fearlessrevolution.com/viewtopic.php?p=104856#p104856)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[AndoWorldGenID](https://imgur.com/a/IN6lh2P)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[AndoSpriteIDMap](https://github.com/CWTesseract/LiveCubReload/blob/master/LiveCubReload/include/SpriteIDMap.h)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Some artifacts fix pastebin, idk where i got](https://pastebin.com/dhZ9UyJ7)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Inventory Type/SubType Catalogue](https://imgur.com/a/gNTq1ra)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Model ID Catalogue](https://imgur.com/a/Mu4zwl9)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff/Debuff ID List](https://imgur.com/a/AGMqDAE)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff Struct from CWTCore](https://github.com/CWTesseract/CWTCore/blob/master/include/CWTCore/cube/Creature.h#L104-L148)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWSDK /cube/Creature.cpp](https://github.com/ChrisMiuchiz/CWSDK/blob/master/cube/Creature.cpp)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CWSDK/cube/Creature.cpp](https://github.com/ChrisMiuchiz/CWSDK/blob/master/cube/Creature.cpp)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Humanova cw datamine demo materials](https://github.com/humanova/cw_datamine/blob/master/cw_demo/material/demo_materials.txt)
 
@@ -69,19 +95,15 @@ Since it's the official tool made by Picroma always usefull.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Move XP Bar Chris](https://imgur.com/gd6yVbr)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[picroma-plasma](https://archive.org/details/picroma-plasma)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Some artifacts fix pastebin, idk where i got](https://pastebin.com/dhZ9UyJ7)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma-Tweaks by Chris](https://github.com/ChrisMiuchiz/Plasma-Tweaks)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Chris Cube-1.0.0-1.rcnet](https://cdn.discordapp.com/attachments/628988071039336469/824091175539179520/Cube-1.0.0-1.rcnet)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Cube-1.0.0-1.rcnet](https://cdn.discordapp.com/attachments/628988071039336469/824091175539179520/Cube-1.0.0-1.rcnet)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Frognik CubeworldGUIPointer.CT](https://cdn.discordapp.com/attachments/641283888798367754/823530332296052736/CubeworldGUIPointer.CT)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeworldGUIPointer.CT](https://cdn.discordapp.com/attachments/641283888798367754/823530332296052736/CubeworldGUIPointer.CT)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geo Cheat Table](https://fearlessrevolution.com/viewtopic.php?p=104856#p104856)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Inventory Type/SubType Catalogue](https://imgur.com/a/gNTq1ra)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Model ID Catalogue](https://imgur.com/a/Mu4zwl9)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Buff/Debuff ID List](https://imgur.com/a/AGMqDAE)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Geordan9 CubeWorldHackTool](https://github.com/Geordan9/CubeWorldHackTool)
 
 ## Comments:
 
