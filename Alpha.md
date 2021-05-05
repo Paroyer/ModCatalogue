@@ -11,6 +11,8 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 ## AlphaTest
 
+&bull; General Stuff
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha ''crash'' Info](https://www.reddit.com/r/CubeWorld/comments/ishcyx/ive_got_the_original_alpha_from_the_old_picroma/g581mge/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Archive.org Fresh Alpha Files](https://archive.org/details/CubeWorldAlpha)
@@ -35,9 +37,9 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 Server management utilitie
 
-[cuwo](https://github.com/matpow2/cuwo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[cuwo](https://github.com/matpow2/cuwo)
 
-[Scripts](https://github.com/matpow2/cuwo-scripts)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Scripts](https://github.com/matpow2/cuwo-scripts)
 
 &bull; cwmods.com
 
