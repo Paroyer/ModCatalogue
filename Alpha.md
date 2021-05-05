@@ -33,15 +33,25 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld network protocol packet structures](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
 
-&bull; cuwo
+&bull; Alpha Mod List:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[SomeLink](https://archive.org/details/CubeWorldAlpha)
+
+&bull; Cuwo
 
 Server management utilitie
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[cuwo](https://github.com/matpow2/cuwo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Cuwo](https://github.com/matpow2/cuwo)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Scripts](https://github.com/matpow2/cuwo-scripts)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Cuwo Official ServerList](http://cuwo.org/#servers)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Other shitty ServerList unrelated to cuwo](https://cubeworld-servers.com/)
+
 &bull; cwmods.com
+
+This website is mostly custom models with some model editor listed above and those couple tools:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[ItemEditor](https://www.cwmods.com/downloads/info446-ItemEditor.html)
 
