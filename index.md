@@ -3,11 +3,9 @@ layout: default
 title: Home
 description: Cubeworld Reference
 ---
+# Swag Catalogue
 
-
-# Swag Catalogue Test
-
-The goal of this shitty page is to eventually list the available mods and such for cubeworld.
+The goal of this GithubPages is to eventually list the available mods, information, ressources, and such for cubeworld.
 
 <u>Table of Content</u>
 
