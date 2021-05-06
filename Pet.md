@@ -10,7 +10,7 @@ __\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this Stea
 
 # Catalogue of Pet & Food Model
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
+&nbsp;&nbsp;&nbsp;&nbsp;[Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
 <div style="height:500px;width:100%;overflow:scroll;overflow-x: hidden;">
 <embed src="https://i.imgur.com/ZQOpcSP.png" style="width:100%;">
@@ -24,15 +24,17 @@ Pet without the __\[Rideable\]__ tag have a speed of 1:1, and those with it 2:1.
 
 Only the Turtle is tag as __\[Tank\]__, but the Baby Mamoth and Bark Beetle should be too.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Source: https://klemek.github.io/cubeworld-pets/ ](https://klemek.github.io/cubeworld-pets/)
 
 <embed src="https://klemek.github.io/cubeworld-pets/" style="width:100%; height: 500px;">
 
 _________________ 
 
-&bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, this is one of the most extensive pet list there is.
+&bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, it's one of the most extensive pet list there is.
 
 ## All Pet even non-tameable
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <center><details>
  <summary>Click to expand</summary>
