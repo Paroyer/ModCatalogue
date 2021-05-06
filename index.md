@@ -7,9 +7,7 @@ description: Cubeworld Reference
 
 The goal of this GithubPages is to eventually list the available mods, information, ressources, and such for cubeworld.
 
-&nbsp;&nbsp;&nbsp;
-
-<b><u>Table of Content</u></b>
+**<u>Table of Content</u>**
 
 ## &nbsp;&nbsp;&nbsp;[Home](https://paroyer.github.io/ModCatalogue/)
 
