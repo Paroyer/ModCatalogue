@@ -9,7 +9,7 @@ description: Cubeworld Reference
 
 The goal of this shitty page is to eventually list the available mods and such for cubeworld.
 
-Should be the eventual Table of Content
+<u>Table of Content</u>
 
 ## &nbsp;&nbsp;&nbsp;[Home](https://paroyer.github.io/ModCatalogue/)
 
