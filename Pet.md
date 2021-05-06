@@ -30,7 +30,7 @@ Only the Turtle is tag as __\[Tank\]__, but the Baby Mamoth and Bark Beetle shou
 
 _________________ 
 
-&bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, this is one of the most extensive pet list there is. It just miss the picture for foods and pets, so if ever you need to see them just use the [Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
+&bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, this is one of the most extensive pet list there is.
 
 ## All Pet even non-tameable
 
