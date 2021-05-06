@@ -12,10 +12,15 @@ The CommandsMod allow you to open a server using your SteamID that anyone can jo
 ### Server specific Commands:
 
 > /join \[SteamID/Alias\] -- Let you join someone server via their SteamID or an alias specified in Mods\CommandsMod\join.txt
+> 
 > /server open -- Allow anyone to join you with your steam ID or a set alias
+> 
 > /server close -- Stop allowing anyone to join your session
+> 
 > /server block -- Refuse all new sessions
+> 
 > /server blacklist -- Enable blacklisting Steam IDs specified in Mods\CommandsMod\blacklist.txt
+> 
 > /server log -- Log new session requests
 
 ### Find your SteamID:
@@ -28,7 +33,9 @@ Once you have a Server ID you can set an alias in Mods\CommandsMod\join.txt with
 
 >\[SteamID\] DesiredAlias
 >
+>
 >For exemple:
+>
 >76561199012927661 philrd_server
 
 ### Side Note
