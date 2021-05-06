@@ -104,6 +104,8 @@ CWME, Magicka Voxel, Vox2Cub, etc.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Some Plx file content](http://i.imgur.com/6Vr5dEt.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Release .plx Catalogue](https://imgur.com/a/XRTK7ya)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Plasma-Graphics-File-Parser](https://github.com/ChrisMiuchiz/Plasma-Graphics-File-Parser)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Move XP Bar Chris](https://imgur.com/gd6yVbr)
