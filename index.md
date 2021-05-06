@@ -9,6 +9,8 @@ The goal of this GithubPages is to eventually list the available mods, informati
 
 **<u>Table of Content</u>**
 
+&nbsp;&nbsp;&nbsp;
+
 ## &nbsp;&nbsp;&nbsp;[Home](https://paroyer.github.io/ModCatalogue/)
 
 ## &nbsp;&nbsp;&nbsp;&bull; [ModList](https://paroyer.github.io/ModCatalogue/ModList)
