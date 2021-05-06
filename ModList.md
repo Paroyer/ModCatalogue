@@ -15,7 +15,7 @@ This is the list of all the known/relevant mods for cubeworld. They are listed a
 
 -Dict modification for localization, Pet Name on Food and such are list on this page : [Dict Modification](https://paroyer.github.io/ModCatalogue/Mods/Dict)
 
--Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here.
+-Same for Reshade-Pack if ever there's more in the future. As there is only Pikyso's Pack so far it's still listed down here. There's also sound-pack that could be added to change some of the game music, but let me admit all the one i've seen so far were either pretty shitty or for a precise target audience, if it ever become relevant I should add a dedicated page for them too.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
