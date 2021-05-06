@@ -34,11 +34,11 @@ _________________
 
 ## All Pet even non-tameable
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<details>
+<center><details>
  <summary>Click to expand</summary>
         <div style="margin-left:-5%;height:500px;width:110%;overflow:scroll;overflow-x: hidden;">
         <embed src="https://i.imgur.com/B9uAesb.jpg" style="width:100%;"></div>
-</details>
+</details></center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
