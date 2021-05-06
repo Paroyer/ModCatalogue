@@ -33,9 +33,9 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld network protocol packet structures](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando cwsdk concept](https://github.com/Andoryuuta/cwsdk)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha .plx Catalogue](https://imgur.com/a/WQ2wpc0)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando cwsdk concept](https://github.com/Andoryuuta/cwsdk), since there was no SDK back then this concept could be usefull for someone trying to mod alpha with Release modding knowledge.
 
 &bull; Alpha Mod List:
 
