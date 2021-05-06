@@ -27,7 +27,21 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Modding](https://paroyer.github.io/ModCatalogue/Modding)
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Intro
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Videos
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Tools
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Ressources
+
 ## &nbsp;&nbsp;&nbsp;&bull; [Pet](https://paroyer.github.io/ModCatalogue/Pet)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Catalogue
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -PetList
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Non-tameable
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Guide](https://paroyer.github.io/ModCatalogue/Guide)
 
@@ -41,7 +55,21 @@ Should be the eventual Table of Content
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Youtube
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Twitch
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Patreon
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Twitter
+
 ## &nbsp;&nbsp;&nbsp;&bull; [Alpha](https://paroyer.github.io/ModCatalogue/Alpha)
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Wiki
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Mods
+
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Ressources
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Contact](https://paroyer.github.io/ModCatalogue/Contact)
 
