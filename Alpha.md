@@ -33,6 +33,8 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorld network protocol packet structures](https://docs.google.com/spreadsheets/d/17W6mPM9uG55JlQzTql2WjepqkKxNlhZuPKP5EeMUBdk/edit#gid=699710884)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando cwsdk concept](https://github.com/Andoryuuta/cwsdk)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha .plx Catalogue](https://imgur.com/a/WQ2wpc0)
 
 &bull; Alpha Mod List:
@@ -40,6 +42,60 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 Well all Alpha mods I know are made by Chris so here's the repo list, I should add everyone of them with the proper link to download them eventually. You need the modLauncher and then you add the .dll you want into the /Mods folder, create one if there's none. Note that server mods actually go in another folder /Server_Mods, again just create one if there's none.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[ChrisMiuchiz](https://github.com/ChrisMiuchiz?tab=repositories)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Mod Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher/tree/legacy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Building Mod](https://github.com/ChrisMiuchiz/Cube-World-Building-Mod/tree/legacy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando BuildingMod GUIConcept](https://github.com/Andoryuuta/cw-buildmod-gui)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Commands Mod](https://github.com/ChrisMiuchiz/Cube-World-Commands-Mod/tree/legacy)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[PvP Mod](https://github.com/ChrisMiuchiz/Cube-World-PvP-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Multithreaded Terrain Generation Mod](https://github.com/ChrisMiuchiz/Cube-World-Multithreaded-Terrain-Generation-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Unlimited Item Stacks Mod](https://github.com/ChrisMiuchiz/Cube-World-Unlimited-Item-Stacks-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Moving Clouds Mod](https://github.com/ChrisMiuchiz/Cube-World-Moving-Clouds-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Extreme Terrain Mod](https://github.com/ChrisMiuchiz/Cube-World-Extreme-Terrain-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Efficient Crafting Mod](https://github.com/ChrisMiuchiz/Cube-World-Efficient-Crafting-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Adaptation Rebalance](https://github.com/ChrisMiuchiz/Cube-World-Adaption-Rebalance)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Exp Buff Mod](https://github.com/ChrisMiuchiz/Cube-World-EXP-Buff-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Stutter Fix SP](https://github.com/ChrisMiuchiz/Cube-World-Stutter-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Stutter Fix Mod](https://github.com/ChrisMiuchiz/Cube-World-Stutter-Fix-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Multiplayer Pet Leveling Fix](https://github.com/ChrisMiuchiz/Cube-World-Multiplayer-Pet-Leveling-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[GUID Fix Mod](https://github.com/ChrisMiuchiz/Cube-World-GUID-Fix-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Bad Item ID Crash Fix](https://github.com/ChrisMiuchiz/Cube-World-Bad-Item-ID-Crash-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[System Time Overflow Fix](https://github.com/ChrisMiuchiz/Cube-World-System-Time-Overflow-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Name Overflow Fix](https://github.com/ChrisMiuchiz/Cube-World-Name-Overflow-Fix)
+
+&bull; Alpha Server Mod:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Server ModLauncher](https://github.com/ChrisMiuchiz/Cube-World-Server-Mod-Launcher)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[MOTD Mod](https://github.com/ChrisMiuchiz/Cube-World-Server-MOTD-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Disable Player Limit Mod](https://github.com/ChrisMiuchiz/Cube-World-Server-Disable-Player-Limit-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Disable PvP Mod](https://github.com/ChrisMiuchiz/Cube-World-Server-PVP-Disable-Mod)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Server Chat Overallocation Fix](https://github.com/ChrisMiuchiz/Cube-World-Server-Chat-Overallocation-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Server Chat Crash Fix](https://github.com/ChrisMiuchiz/Cube-World-Server-Chat-Crash-Fix)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Server Ghost Damage Fix](https://github.com/ChrisMiuchiz/Cube-World-Server-Ghost-Damage-Fix)
 
 &bull; Cuwo
 
