@@ -7,7 +7,7 @@ description: Modding description
 
 Some relevant modding general introduction by someone more skilled then myself could be pretty pogger, we'll see.
 
-Or this will be a project setup tutorial, something like this. Just realised I didnt even link the [CWSDK](https://github.com/ChrisMiuchiz/CWSDK) here nor MSVC, which could be usefull since some people seem to have problem at some degree with Cmake. Tho there's a general Getting Started section in the readme that could be enough to set you up if you have a minimum of knowledge on this.
+Or this will be a project setup tutorial, something like this. Just realised I didnt even link the [CWSDK](https://github.com/ChrisMiuchiz/CWSDK) here nor [MSVC](https://visualstudio.microsoft.com/fr/free-developer-offers/), which could be usefull since some people seem to have problem at some degree with Cmake. Tho there's a general Getting Started section in the readme that could be enough to set you up if you have a minimum of knowledge on this.
 
 ## Modding Tutorial Video
 
@@ -22,6 +22,10 @@ Or this will be a project setup tutorial, something like this. Just realised I d
 ## Tools
 
 ### ModdingSetup
+
+Until I do a proper Modding Setup introduction, you can try yourself with this Modding Setup. In theory everything you need is there, that's from Nichiren Modding Introduction video if ever you need more information just look at his channel there's quite a lot of really usefull tutorials.
+
+[Nichiren Modding Setup](https://drive.google.com/file/d/1w9n0tMUHzElQlQQcPHu7c_A0NxywO-N6/view)
 
 ### Decompilers
 
