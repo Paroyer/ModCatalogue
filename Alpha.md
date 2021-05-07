@@ -25,6 +25,8 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Cheat Table](https://fearlessrevolution.com/viewtopic.php?f=4&t=3799)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Server SetUp](https://www.youtube.com/watch?v=mItZvfgKzMo)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Mitten](https://github.com/ChrisMiuchiz/Mitten)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[CubeWorldServerRunner](https://github.com/Matriz88/CubeWorldServerRunner)
