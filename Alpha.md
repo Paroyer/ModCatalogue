@@ -49,6 +49,8 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Media](http://web.archive.org/web/20190729125058/https://picroma.com/media)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Hungarian Loc file](http://www.mediafire.com/download/xmcxrny0a8um1yq/data4.db)
+
 &bull; Alpha Mod List:
 
 Well all Alpha mods I know are made by Chris so here's the repo list, I should add everyone of them with the proper link to download them eventually. You need the modLauncher and then you add the .dll you want into the /Mods folder, create one if there's none. Note that server mods actually go in another folder /Server_Mods, again just create one if there's none.
