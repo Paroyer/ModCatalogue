@@ -11,7 +11,25 @@ __\*<u>Wiki:</u> [Official Release Wiki](https://cubeworld.fandom.com/wiki/Cube_
 
 &bull; How to setup a Server Using CommandsMod [Server Setup](https://paroyer.github.io/ModCatalogue/Server)
 
-&bull; How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
+&bull; How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding
+
+&bull; How to play Cube World on a shitty computer [Lag Guide](https://paroyer.github.io/ModCatalogue/Lag)
+
+## Keyboard/Mouse & Chat Commands
+
+Quick review of the unlisted controls and commands
+
+>Since Cube World doesn't exactly come with a manual (like literally),
+>
+>I decided to pool some more or less obvious Keyboard, Mouse & Chat Commands,
+>
+>so you can get the most out of this game.
+>
+>Some Commands are especially useful for multiplayer,
+>
+>so if you want to play with friends, make sure to check this guide out.
+
+&bull; [List of Undocumented Keyboard/Mouse & Chat Commands](https://steamcommunity.com/sharedfiles/filedetails/?id=1888731245)
 
 ## Basic Specialization Info
 
@@ -67,6 +85,50 @@ Well as the name imply it is a more advance guide regarding how to move efficien
 >An all in one guide for faster and more efficient character movement around Cube World. ANY of this could be patched out at ANY time. I'll keep it updated with new tips found.
 
 &bull; [Advanced Movement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1876258553)
+
+## Other language guide
+
+All of those are pretty intesting even just with google translate, some have information that aren't listed elsewhere or just way better explained:
+
+&bull; [FAQ - information on the game](https://steamcommunity.com/sharedfiles/filedetails/?id=1882872827)
+
+>Answers to the most frequently asked questions about the game, gameplay, and technical aspects of the game.
+
+&bull; [Errors when starting the game and their solution](https://steamcommunity.com/sharedfiles/filedetails/?id=1881363627)
+
+>The most common mistakes preventing Cube World from playing. Description, solution.
+
+&bull; [How to play this game at all](https://steamcommunity.com/sharedfiles/filedetails/?id=1880927872)
+
+>In this guide, I will share my experience and information I found on the Internet about what to do in this damn game.
+
+&bull; [Basic information about classes and specializations](https://steamcommunity.com/sharedfiles/filedetails/?id=1877115952)
+
+>This guide covers the main differences between the specializations of each class, so you have a general idea of ​​which one is right for you. There is also some basic information about the weapon.
+
+&bull; [Equipment and updates](https://steamcommunity.com/sharedfiles/filedetails/?id=1880927872)
+
+>Equipment update is an important factor in Cube World.
+>I will describe how to prepare the equipment.
+>I hope it will be an indicator of how to proceed with equipment upgrades.
+
+&bull; [Road to Cube World Level 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1874646458)
+
+>This guide will show you how to reach Level 2 on Cube World.
+>
+>Please note the following points.
+>
+>・ For those who want to play by groping, spoilers are included, so please have a look when you get stuck.
+>
+>・ The content may be updated in future updates, so please check the thread in a timely manner.
+>
+>・ If you find it difficult to understand, please let me know and I will correct it. (I will fix it when I find it.)
+>
+>Then, please have a look ....
+
+&bull; [The basics for a good start](https://steamcommunity.com/sharedfiles/filedetails/?id=1876589)
+
+>Gathering the basic elements of the game so you don't get lost in the beginning.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
