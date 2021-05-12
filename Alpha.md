@@ -37,7 +37,13 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha .plx Catalogue](https://imgur.com/a/WQ2wpc0)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando cwsdk concept](https://github.com/Andoryuuta/cwsdk), since there was no SDK back then this concept could be usefull for someone trying to mod alpha with Release modding knowledge.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Ando cwsdk concept](https://github.com/Andoryuuta/cwsdk)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[cubeworld-tools](https://github.com/VoiDeD/cubeworld-tools)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[cubeworld forum fast travel mod](http://web.archive.org/web/20131027085934/http://cubeworldforum.org/topic/9548-mod-inter-city-fast-travel-and-town-portal-ability/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Dialogue Patcher](https://github.com/synap5e/cubeworld-dialogue-patcher)
 
 &bull; Alpha Mod List:
 
