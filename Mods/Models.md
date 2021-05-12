@@ -21,6 +21,12 @@ As custom models are kind off a really soft "mod" they have a separate page then
 
 ## Exemple
 
+Most of the custom models I know are on those 2 website :
+
+&bull;[Cwmods](https://www.cwmods.com/)
+
+&bull;[Gamebanana](https://gamebanana.com/games/5200)
+
 [PokemonSprites](http://www.mediafire.com/file/51ftlcalp2qa2ut/Pokemon.zip/file)
 
 Should add the community pack eventually
