@@ -33,7 +33,11 @@ Most of the custom models I know are on those 2 website :
 
 [CommunityPack](https://www.mediafire.com/file/4qlsrg9jum6fhso/Community_Sprites_V.3.rar/file)
 
-Also the non-existent weapon/armor fix, so far there seem to only have the models created for the missing obsidian weapon (it's in the CommunityPack btw), but there's way more missing .cub imma try to do some myself or find someone else more talented then I with that kind of stuff. I have the list somewhere imma add a pastebin link eventually. Also note that the game actually try to load a torch-read.cub model while it's actually named torch-red.cub in the sprites folder, you can just rename torch-red to torch-read and you will be able to use the red torch at the ID 3387. I dont know if the game try to generate that kind of torch normally, I didnt find one so far while playing with the renamed file, but all the other torch seem to be used in some kind of dungeon or another.
+Also the non-existent weapon/armor fix, so far there seem to only have the models created for the missing obsidian weapon (it's in the CommunityPack btw), but there's way more missing .cub imma try to do some myself or find someone else more talented then I with that kind of stuff. I have the list somewhere imma add a [PasteBin](https://pastebin.com/8YNWJitn) link eventually. Most of the Building .cub dont load in game by just using those ID, there's probably another way to spawn them with the proper size but i dont know shit about that kind of stuff. So the .cub for the building exist and the game try to load them, but I was never actually able to show them in game that's why they are missing from the model catalogue.
+
+Also note that the game actually try to load a torch-read.cub model while it's actually named torch-red.cub in the sprites folder, you can just rename torch-red to torch-read and you will be able to use the red torch at the ID 3387. I dont know if the game try to generate that kind of torch normally, I didnt find one so far while playing with the renamed file, but all the other torch seem to be used in some kind of dungeon or another.
+
+Also there's some custom races created by the community I may add eventually, Dreamerz made a feline and a draenei race and I remember there was a robot race too but I forgot who made it.
 
 Maybe the Hollowed models modification too, apparently it was usefull in alpha for shitty pc so I rerun the tool for the Release version and imma host that somewhere soon
 
