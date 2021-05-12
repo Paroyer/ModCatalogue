@@ -33,7 +33,7 @@ Most of the custom models I know are on those 2 website :
 
 [CommunityPack](https://www.mediafire.com/file/4qlsrg9jum6fhso/Community_Sprites_V.3.rar/file)
 
-Also the non-existent weapon/armor fix
+Also the non-existent weapon/armor fix, so far there seem to only have the models created for the missing obsidian weapon (it's in the CommunityPack btw), but there's way more missing .cub imma try to do some myself or find someone else more talented then I with that kind of stuff. I have the list somewhere imma add a pastebin link eventually
 
 Maybe the Hollowed models modification too
 
