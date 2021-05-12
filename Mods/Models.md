@@ -27,11 +27,15 @@ Most of the custom models I know are on those 2 website :
 
 &bull;[Gamebanana](https://gamebanana.com/games/5200)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [PokemonSprites](http://www.mediafire.com/file/51ftlcalp2qa2ut/Pokemon.zip/file)
 
-Should add the community pack eventually
+[CommunityPack](https://www.mediafire.com/file/4qlsrg9jum6fhso/Community_Sprites_V.3.rar/file)
 
 Also the non-existent weapon/armor fix
+
+Maybe the Hollowed models modification too
 
 &bull; I May do standalone page for each one of them at some point, if there's enough so that is a minimum relevant. We'll see
 
