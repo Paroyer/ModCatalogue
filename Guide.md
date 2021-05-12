@@ -11,7 +11,7 @@ __\*<u>Wiki:</u> [Official Release Wiki](https://cubeworld.fandom.com/wiki/Cube_
 
 &bull; How to setup a Server Using CommandsMod [Server Setup](https://paroyer.github.io/ModCatalogue/Server)
 
-&bull; How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding
+&bull; How to create a mod [Modding Guide](https://paroyer.github.io/ModCatalogue/Modding)
 
 &bull; How to play Cube World on a shitty computer [Lag Guide](https://paroyer.github.io/ModCatalogue/Lag)
 
