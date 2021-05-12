@@ -37,6 +37,8 @@ Also the non-existent weapon/armor fix
 
 Maybe the Hollowed models modification too
 
+Maybe the NoCloud models for Release, can also just delete the 3 sprites with cloud in their names and you will have a cloudless game :3
+
 &bull; I May do standalone page for each one of them at some point, if there's enough so that is a minimum relevant. We'll see
 
 ## Comments:
