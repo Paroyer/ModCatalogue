@@ -53,6 +53,8 @@ The goal of this GithubPages is to eventually list the available mods, informati
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How To Create Mods](https://paroyer.github.io/ModCatalogue/Modding)
 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[How to Play on a shitty computer](https://paroyer.github.io/ModCatalogue/Lag)
+
 ## &nbsp;&nbsp;&nbsp;&bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -Youtube
