@@ -43,7 +43,11 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[cubeworld forum fast travel mod](http://web.archive.org/web/20131027085934/http://cubeworldforum.org/topic/9548-mod-inter-city-fast-travel-and-town-portal-ability/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Dialogue Patcher](https://github.com/synap5e/cubeworld-dialogue-patcher)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Seeds - Cubeworldforum Wiki](http://web.archive.org/web/20140421054758/http://wiki.cubeworldforum.org/index.php?title=Seed#Seeds)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Cube-seeds](http://web.archive.org/web/20131023203528/http://cube-seeds.com/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Media](http://web.archive.org/web/20190729125058/https://picroma.com/media)
 
 &bull; Alpha Mod List:
 
