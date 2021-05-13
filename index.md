@@ -57,11 +57,11 @@ The goal of this GithubPages is to eventually list the available mods, informati
 
 ## &nbsp;&nbsp;&nbsp;&bull; [Media](https://paroyer.github.io/ModCatalogue/Media)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Youtube](https://paroyer.github.io/ModCatalogue/Media#Youtube)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Youtube](https://paroyer.github.io/ModCatalogue/Youtube)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Twitch](https://paroyer.github.io/ModCatalogue/Media#Twitch)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Twitch](https://paroyer.github.io/ModCatalogue/Twitch)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Patreon](https://paroyer.github.io/ModCatalogue/Media#Patreon)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Patreon](https://paroyer.github.io/ModCatalogue/Patreon)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Twitter](https://paroyer.github.io/ModCatalogue/Media#Twitter)
 
