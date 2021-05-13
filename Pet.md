@@ -8,7 +8,7 @@ __\*<u>General Info:</u> You can actually name you pet however you like with /na
 
 __\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this SteamGuide yet so here you go: [ClonePet](https://steamcommunity.com/sharedfiles/filedetails/?id=1879776041)\*__
 
-# Catalogue of Pet & Food Model
+# Catalogue of Pet & Food Model <a name="Catalogue"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Pet&Food Model Catalogue](https://imgur.com/a/DbxyhwB)
 
@@ -18,7 +18,7 @@ __\*<u>General Info:</u> There's a duplicate pet bug, idk where to put this Stea
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## Pet-List Embed Test
+## Pet-List Embed Test <a name="PetList"></a>
 
 Pet without the __\[Rideable\]__ tag have a speed of 1:1, and those with it 2:1.
 
@@ -32,7 +32,7 @@ _________________
 
 &bull; The caught list wont save since this is an embed, just go on the source page if you want to use it. This is mostly for documentation purpose, it's one of the most extensive pet list there is.
 
-## All Pet even non-tameable
+## All Pet even non-tameable <a name="Non-tameable"></a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
