@@ -3,13 +3,13 @@ layout: default
 title: Alpha
 description: Alpha description
 ---
-# Wiki
+# Wiki <a name="Wiki"></a>
 
 If you need some info for the Alpha version, you can still look the cubeworld.fandom just look at the history (accessible on top of the page) and be sure you're checking the page version before October 2019. Up to the 29 september 2019 Rev it's alpha content, after this from the 1 October 2019 it's Release information. Eventually a separate Alpha/Release Wiki would be pretty nice, especially since we can't edit older revision with out pushing it over the actual content, again something we'll see.
 
 &nbsp;--&nbsp;[Wiki Rev.29Sept2019](https://cubeworld.fandom.com/wiki/Cube_World_Wiki?oldid=12597)
 
-## AlphaTest
+## Alpha Mods <a name="Ressources"></a>
 
 &bull; General Stuff
 
@@ -51,7 +51,7 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Alpha Hungarian Loc file](http://www.mediafire.com/download/xmcxrny0a8um1yq/data4.db)
 
-&bull; Alpha Mod List:
+&bull; Alpha Mod List: <a name="Mods"></a>
 
 Well all Alpha mods I know are made by Chris so here's the repo list, I should add everyone of them with the proper link to download them eventually. You need the modLauncher and then you add the .dll you want into the /Mods folder, create one if there's none. Note that server mods actually go in another folder /Server_Mods, again just create one if there's none.
 
