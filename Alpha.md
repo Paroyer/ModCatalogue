@@ -9,7 +9,7 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &nbsp;--&nbsp;[Wiki Rev.29Sept2019](https://cubeworld.fandom.com/wiki/Cube_World_Wiki?oldid=12597)
 
-## Alpha Mods <a name="Ressources"></a>
+## Alpha Stuff <a name="Ressources"></a>
 
 &bull; General Stuff
 
