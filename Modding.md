@@ -3,13 +3,13 @@ layout: default
 title: Modding
 description: Modding description
 ---
-# Modding Guide
+# Modding Guide <a name="Intro"></a>
 
 Some relevant modding general introduction by someone more skilled then myself could be pretty pogger, we'll see.
 
 Or this will be a project setup tutorial, something like this. Just realised I didnt even link the [CWSDK](https://github.com/ChrisMiuchiz/CWSDK) here nor [MSVC](https://visualstudio.microsoft.com/fr/free-developer-offers/), which could be usefull since some people seem to have problem at some degree with Cmake. Tho there's a general Getting Started section in the readme that could be enough to set you up if you have a minimum of knowledge on this.
 
-## Modding Tutorial Video
+## Modding Tutorial Video <a name="Videos"></a>
 
 ### <u>Nichi Tutorial Playlist</u>
 
@@ -86,7 +86,7 @@ CWME, Magicka Voxel, Vox2Cub, etc.
 -[Vox2Cub](https://github.com/ParanormalVibe/Vox2Cub)
 
 
-## Ressources
+## Ressources <a name="Ressources"></a>
 
 If you need some example of Mods just look at the ModList, most Mods author include their source code inside their Repositories. For the [CWSDK](https://github.com/ChrisMiuchiz/CWSDK) there's a minimum of information inside the Repo readme, but it's capable of doing way more then what is listed there. If you need help with something in particular, or have some function you would like to contribute to the SDK, just head to the official Discord and ask your question in the #Dev channel. 
 
