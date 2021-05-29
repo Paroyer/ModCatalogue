@@ -53,6 +53,8 @@ If you need some info for the Alpha version, you can still look the cubeworld.fa
 
 &bull; Alpha Mod List: <a name="Mods"></a>
 
+/* Imma need to add some proper info on how to instal/use them, atm if you dont know what to do with those files you're probably better off waiting a bit or find a video on youtube specificly for that mod /*
+
 Well all Alpha mods I know are made by Chris so here's the repo list, I should add everyone of them with the proper link to download them eventually. You need the modLauncher and then you add the .dll you want into the /Mods folder, create one if there's none. Note that server mods actually go in another folder /Server_Mods, again just create one if there's none.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[ChrisMiuchiz](https://github.com/ChrisMiuchiz?tab=repositories)
