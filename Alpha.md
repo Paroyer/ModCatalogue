@@ -97,6 +97,8 @@ Well all Alpha mods I know are made by Chris so here's the repo list, I should a
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Name Overflow Fix](https://github.com/ChrisMiuchiz/Cube-World-Name-Overflow-Fix)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Region Reveal](https://github.com/Jovinull/RegionReveal) - entering an area reveals every label in it on the world map (cities, castles, dungeons, ruins); no terrain or save changes. Standalone dinput8.dll, no Mod Launcher needed
+
 &bull; Alpha Server Mod:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -[Server ModLauncher](https://github.com/ChrisMiuchiz/Cube-World-Server-Mod-Launcher)
